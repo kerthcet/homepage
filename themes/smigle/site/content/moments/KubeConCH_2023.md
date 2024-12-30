@@ -22,4 +22,4 @@ Give a talk with [Yuanzhe Hu](https://github.com/Basasuya) from ByteDance about 
 
 Also have aother talk with [Alex](https://github.com/denkensk) from Shopee for *Kubernetes SIG-Scheduling Intro and Deep Dive*. [Slides here](https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-china/sig-scheduling_intro_deep_dive.pdf).
 
-{{< figure src="/images/moments/KubeconCH_scheduler_2023.jpg" alt="session" class="center" >}}
+{{< figure src="/images/moments/kubeconch_scheduler_2023.jpg" alt="session" class="center" >}}
