@@ -5,7 +5,7 @@ subtitle: ""
 date: 2021-11-06
 description: ""
 categories:
-  - Session
+  - Talk
 tags:
   - 2021
   - Kubernetes

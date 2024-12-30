@@ -5,7 +5,7 @@ subtitle: ""
 date: 2024-03-22
 description: ""
 categories:
-  - Session
+  - Talk
 tags:
   - 2024
   - Kubernetes

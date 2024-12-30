@@ -5,7 +5,7 @@ subtitle: ""
 date: 2023-09-27
 description: ""
 categories:
-  - Session
+  - Talk
 tags:
   - 2023
   - Kubernetes
