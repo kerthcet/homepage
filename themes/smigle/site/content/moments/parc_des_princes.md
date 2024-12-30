@@ -5,10 +5,12 @@ subtitle: ""
 date: 2024-03-18
 description: ""
 categories:
-  - Football
+  - Travel
 tags:
   - 2024
   - Stadium
+  - Football
+  - France
 ---
 
 **Parc des Princes**

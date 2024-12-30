@@ -52,10 +52,6 @@ params:
     - name: WeChat
       url: https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg
   subtitle: "Software Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
-  utteranc:
-    enable: true
-    repo: homepage
-    theme: smigle
 pagination:
   pagerSize: 5
 mainSections: ["posts", "moments"]
