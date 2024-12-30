@@ -42,9 +42,6 @@ params:
   #readingSpeed: 600 # Use to set custom reading speed
   #readingSpeedMin: 25 # Use to set custom reading speed range
   #readingSpeedMax: 175 # Use to set custom reading speed range
-  utterances:
-    owner = "kerthcet"
-    repo = "homepage"     # The repo to store comments
   social:
     - name: GitHub
       url: https://github.com/kerthcet
@@ -55,6 +52,10 @@ params:
     - name: WeChat
       url: https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg
   subtitle: "Software Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
+  utteranc:
+    enable: true
+    repo: kerthcet/homepage
+    theme: smigle
 pagination:
   pagerSize: 5
 mainSections: ["posts", "moments"]
