@@ -42,6 +42,9 @@ params:
   #readingSpeed: 600 # Use to set custom reading speed
   #readingSpeedMin: 25 # Use to set custom reading speed range
   #readingSpeedMax: 175 # Use to set custom reading speed range
+  utterances:
+    owner = "kerthcet"
+    repo = "homepage"     # The repo to store comments
   social:
     - name: GitHub
       url: https://github.com/kerthcet
