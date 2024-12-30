@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/2024/</loc>
+    <loc>https://kerthcet.com/tags/2024/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kerthcet.com/categories/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kerthcet.com/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kubecon/</loc>
+    <loc>https://kerthcet.com/tags/kubecon/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/kubeconch_2024/</loc>
+    <loc>https://kerthcet.com/moments/kubeconch_2024/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kubernetes/</loc>
+    <loc>https://kerthcet.com/tags/kubernetes/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/</loc>
+    <loc>https://kerthcet.com/moments/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scheduling/</loc>
+    <loc>https://kerthcet.com/tags/scheduling/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/session/</loc>
+    <loc>https://kerthcet.com/categories/session/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kerthcet.com/tags/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/kubeconeu_2024/</loc>
+    <loc>https://kerthcet.com/moments/kubeconeu_2024/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/2023/</loc>
+    <loc>https://kerthcet.com/tags/2023/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://kerthcet.com/tags/ai/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/batch/</loc>
+    <loc>https://kerthcet.com/tags/batch/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/kubeconch_2023/</loc>
+    <loc>https://kerthcet.com/moments/kubeconch_2023/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ray/</loc>
+    <loc>https://kerthcet.com/tags/ray/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/kubeconeu_2023/</loc>
+    <loc>https://kerthcet.com/moments/kubeconeu_2023/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/award/</loc>
+    <loc>https://kerthcet.com/categories/award/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/kca_2022/</loc>
+    <loc>https://kerthcet.com/moments/kca_2022/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/2021/</loc>
+    <loc>https://kerthcet.com/tags/2021/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kcd/</loc>
+    <loc>https://kerthcet.com/tags/kcd/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moments/kcd_shanghai_2021/</loc>
+    <loc>https://kerthcet.com/moments/kcd_shanghai_2021/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://kerthcet.com/about/</loc>
   </url>
 </urlset>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Award on Hi, I&#39;m Kante Yin 👋</title>
-    <link>http://localhost:1313/categories/award/</link>
+    <link>https://kerthcet.com/categories/award/</link>
     <description>Recent content in Award on Hi, I&#39;m Kante Yin 👋</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/award/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kerthcet.com/categories/award/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes Contributor Award</title>
-      <link>http://localhost:1313/moments/kca_2022/</link>
+      <link>https://kerthcet.com/moments/kca_2022/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/moments/kca_2022/</guid>
-      <description>&lt;p&gt;Excited to earn the Kubernetes Contributor Award for the first time 🎉 !&lt;/p&gt;&#xA;&lt;figure class=&#34;center-width-half&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/moments/KCA_2022.jpg&#34;&#xA;    alt=&#34;award&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://kerthcet.com/moments/kca_2022/</guid>
+      <description>&lt;p&gt;Excited to earn the Kubernetes Contributor Award for the first time 🎉 !&lt;/p&gt;&#xA;&lt;figure class=&#34;center-width-half&#34;&gt;&lt;img src=&#34;https://kerthcet.com/images/moments/KCA_2022.jpg&#34;&#xA;    alt=&#34;award&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
