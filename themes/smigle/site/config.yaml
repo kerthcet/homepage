@@ -54,7 +54,7 @@ params:
   subtitle: "Software Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
   utteranc:
     enable: true
-    repo: kerthcet/homepage
+    repo: homepage
     theme: smigle
 pagination:
   pagerSize: 5
