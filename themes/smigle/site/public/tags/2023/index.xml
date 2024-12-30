@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 on Hi, I&#39;m Kante Yin 👋</title>
+    <link>http://localhost:1313/tags/2023/</link>
+    <description>Recent content in 2023 on Hi, I&#39;m Kante Yin 👋</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KubeCon China Shanghai</title>
+      <link>http://localhost:1313/moments/kubeconch_2023/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/moments/kubeconch_2023/</guid>
+      <description>&lt;p&gt;Give a talk with &lt;a href=&#34;https://github.com/Basasuya&#34;&gt;Yuanzhe Hu&lt;/a&gt; from ByteDance about &lt;em&gt;Sailing ray workloads with &lt;a href=&#34;https://github.com/ray-project/kuberay&#34;&gt;KubeRay&lt;/a&gt; and &lt;a href=&#34;https://github.com/kubernetes-sigs/kueue&#34;&gt;Kueue&lt;/a&gt; on Kubernetes&lt;/em&gt;. &lt;a href=&#34;https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-china/kueue/Ray%20%26%20Kueue%20KubeCon-2023%20China%20.pdf&#34;&gt;Slides here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/moments/KubeconCH_ray_2023.jpg&#34;&#xA;    alt=&#34;session&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Also have aother talk with &lt;a href=&#34;https://github.com/denkensk&#34;&gt;Alex&lt;/a&gt; from Shopee for &lt;em&gt;Kubernetes SIG-Scheduling Intro and Deep Dive&lt;/em&gt;. &lt;a href=&#34;https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-china/sig-scheduling_intro_deep_dive.pdf&#34;&gt;Slides here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/moments/KubeconCH_scheduler_2023.jpg&#34;&#xA;    alt=&#34;session&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>KubeCon Europe Amsterdam</title>
+      <link>http://localhost:1313/moments/kubeconeu_2023/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/moments/kubeconeu_2023/</guid>
+      <description>&lt;p&gt;Give a talk with &lt;a href=&#34;https://github.com/alculquicondor&#34;&gt;Aldo&lt;/a&gt; from Google about &lt;em&gt;How to build a batch system for the cloud with &lt;a href=&#34;https://github.com/kubernetes-sigs/kueue&#34;&gt;Kueue&lt;/a&gt;&lt;/em&gt;. &lt;a href=&#34;https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-eu/kueue-deepdive.pdf&#34;&gt;Slides here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/moments/KubeconEU_Kueue_2023.jpg&#34;&#xA;    alt=&#34;session&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes Contributor Award</title>
+      <link>http://localhost:1313/moments/kca_2022/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/moments/kca_2022/</guid>
+      <description>&lt;p&gt;Excited to earn the Kubernetes Contributor Award for the first time 🎉 !&lt;/p&gt;&#xA;&lt;figure class=&#34;center-width-half&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/moments/KCA_2022.jpg&#34;&#xA;    alt=&#34;award&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

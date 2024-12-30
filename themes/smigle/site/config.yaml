@@ -1,0 +1,56 @@
+baseURL: https://kerthcet.com/ # Replace with your domain
+languageCode: en-us
+theme: smigle
+themesDir: ../.. # Only needed for running the example site
+title: Hi, I'm Kante Yin 👋
+menu:
+  main: # Change menu as needed
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 3
+    - identifier: moments
+      name: Moments
+      url: /moments/
+      weight: 4
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 5
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 6
+params:
+  abbrDateFmt: "Jan 2"
+  author: "kerthcet"
+  brandIconFile: "images/kerthcet.png"
+  dateFmt: "2006-01-02"
+  ##
+  ## Options for overriding theme or page defaults
+  ##
+  customStylesheets: # Use to override theme styles, like logo size
+   - "css/custom.css"
+  #readingSpeed: 600 # Use to set custom reading speed
+  #readingSpeedMin: 25 # Use to set custom reading speed range
+  #readingSpeedMax: 175 # Use to set custom reading speed range
+  social:
+    - name: GitHub
+      url: https://github.com/kerthcet
+    - name: Twitter
+      url: https://x.com/kerthcet
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/kerthcet/
+    - name: WeChat
+      url: https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg
+  subtitle: "Software Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
+paginate: 5
+mainSections: ["posts", "moments"]
