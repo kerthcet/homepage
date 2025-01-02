@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: 2024 Recap
+title: Recap 2024
 subtitle: ""
 date: 2024-12-31
 description: ""
@@ -14,11 +14,9 @@ tags:
 On January 1st, 2024, I outlined three goals for the coming year,
 and I would like to response to this first:
 
-```
-1. Concentrate on AI, still continue with Kubernetes.
-2. Be fluent in English.
-3. Less social media, more books.
-```
+* Concentrate on AI, still continue with Kubernetes.
+* Be fluent in English.
+* Less social media, more books.
 
 For Goal 1, I do believe I have some progress. To begin with, I want to highlight
 the contributions I've made to [LWS](https://github.com/kubernetes-sigs/lws).
@@ -54,11 +52,8 @@ Looking forward to the new year, I think I will keep learning and working on LLM
 
 Finally, I'll make three goals as usual for the next year:
 
-```
-1. Growing the InftyAI community, llmaz and manta become sandbox projects
-2. Become an active contributor to inference engines
-3. Learn LLVM & MLIR
-```
+* Growing the InftyAI community, llmaz and manta become sandbox projects
+* Become an active contributor to inference engines
+* Learn LLVM & MLIR
 
-
-Happy new year! 🎉
+And happy new year! 🎉
