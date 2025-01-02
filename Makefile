@@ -4,5 +4,5 @@ build:
 
 
 .PHONY: launch
-launch:
+launch: build
 	cd themes/smigle/site && hugo server
