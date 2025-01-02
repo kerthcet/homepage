@@ -55,4 +55,3 @@ params:
 pagination:
   pagerSize: 10
 mainSections: ["posts", "moments"]
-comment: true

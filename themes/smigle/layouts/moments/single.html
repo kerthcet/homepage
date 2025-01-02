@@ -5,6 +5,9 @@
         {{ with .Params.subtitle }}<h3 class="subtitle">{{ . }}</h3>{{ end }}
         {{ partial "postMetaDetailed.html" . }}
         <div class="content">{{ .Content }}</div>
+        <script src="https://utteranc.es/client.js" repo="kerthcet/homepage" issue-term="url" label="creator/utterances"
+            theme="github-light" crossorigin="anonymous" async>
+            </script>
     </article>
 </main>
 {{ end }}
