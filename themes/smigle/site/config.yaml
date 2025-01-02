@@ -53,5 +53,5 @@ params:
       url: https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg
   subtitle: "Software Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
 pagination:
-  pagerSize: 5
+  pagerSize: 10
 mainSections: ["posts", "moments"]
