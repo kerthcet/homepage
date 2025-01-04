@@ -13,6 +13,6 @@ tags:
   - Scheduling
 ---
 
-Give a talk with [Wei Huang](https://github.com/Huang-Wei) from Apple for *Kubernetes SIG-Scheduling Deep Dive*. [Slides here](https://github.com/kerthcet/Slides/blob/main/year2024/kubecon-eu/KubeConEU24-SIG-Scheduling.key).
+Give a talk with [@Huang-Wei](https://github.com/Huang-Wei) from Apple for *Kubernetes SIG-Scheduling Deep Dive*. [Slides here](https://github.com/kerthcet/Slides/blob/main/year2024/kubecon-eu/KubeConEU24-SIG-Scheduling.key).
 
 {{< figure src="/images/moments/kubeconeu_scheduler_2024.jpg" alt="session" class="center" >}}
