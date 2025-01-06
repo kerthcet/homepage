@@ -5,9 +5,14 @@
   </a>
   {{ partial "postMeta.html" . }}
   <div class="content">
+    {{ if .Params.truncated }}
+    </br>
+    <a href="{{ .Permalink }}">Read more...</a>
+    {{ else }}
     <p>{{ .Summary }}</p>
     {{ if .Truncated }}
     <a href="{{ .Permalink }}">Read more...</a>
+    {{ end }}
     {{ end }}
   </div>
 </article>

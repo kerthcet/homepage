@@ -9,6 +9,7 @@ categories:
 tags:
   - 2024
   - Recap
+weight: 1
 ---
 
 On January 1st, 2024, I outlined three goals for the coming year,
