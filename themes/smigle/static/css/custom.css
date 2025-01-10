@@ -4,3 +4,15 @@
     margin-right: auto;
     width: 50%;
 }
+
+h1.pinned-title {
+    display: flex;
+    align-items: center;
+    margin: 1.3rem 0 0 0;
+}
+
+h1.pinned-title .logo {
+  width: 15px;
+  height: auto;
+  margin-right: 0.5rem;
+}
