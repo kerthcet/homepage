@@ -10,7 +10,6 @@ tags:
   - 2024
   - stats
 truncated: true
-weight: 2
 ---
 
 {{< figure src="/images/moments/code_stats_2024.png" alt="stats" class="center" >}}

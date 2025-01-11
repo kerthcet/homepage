@@ -9,15 +9,14 @@ categories:
 tags:
   - 2024
   - Recap
-weight: 1
 ---
 
 On January 1st, 2024, I outlined three goals for the coming year,
 and I would like to response to this first:
 
-* Concentrate on AI, still continue with Kubernetes.
-* Be fluent in English.
-* Less social media, more books.
+- Concentrate on AI, still continue with Kubernetes.
+- Be fluent in English.
+- Less social media, more books.
 
 For Goal 1, I do believe I have some progress. To begin with, I want to highlight
 the contributions I've made to [LWS](https://github.com/kubernetes-sigs/lws).
@@ -31,6 +30,7 @@ Next, I'd like to mention the long vision work we're doing right now, the [Infty
 Today, llmaz is still a relatively young project, containing some basic features at the moment, but Rome wasn't built in a day, I believe it will be popular at some time, and appreciate all the contributors so far, hope to meet them offline one day.
 
 But I admit that we've taken some detours, we first build a python library [llmlite](https://github.com/InftyAI/llmlite) to integrate with these inference engines, working as a wrapper and hope to serve the library directly in llmaz, but sooner we found it's not that expandable what if people has their own engine, also hard to maintain considering the complexities of inference and the crazy code iteration rate, so we gave up timely. Also we met the big problem to distribute models, we developed [manta](https://github.com/InftyAI/Manta) to help us preheat the model but the integration with llmaz is really complex, the workflow generally looks like:
+
 1. llmaz will create an inference service first
 2. inference service will create the real workload (Pod here)
 3. once Pod is scheduled, llmaz will create the preheat service to load the model in advance
@@ -53,8 +53,8 @@ Looking forward to the new year, I think I will keep learning and working on LLM
 
 Finally, I'll make three goals as usual for the next year:
 
-* Growing the InftyAI community, llmaz and manta become sandbox projects
-* Become an active contributor to inference engines
-* Learn LLVM & MLIR
+- Growing the InftyAI community, llmaz and manta become sandbox projects
+- Become an active contributor to inference engines
+- Learn LLVM & MLIR
 
 And happy new year! 🎉

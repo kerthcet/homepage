@@ -1,14 +1,10 @@
 {{ define "main" }}
 	<main>
 		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-			{{ if not $paginator.HasPrev }}
-				{{ $filteredPages := sort (where .Site.Pages "Params.pinned" true) "Date" "desc" }}
-				{{ range $filteredPages }}
-					{{ .Render "pinned" }}
-				{{ end }}
-			{{ end }}
 		{{ range $paginator.Pages }}
-			{{ if not .Params.pinned }}
+			{{ if .Params.pinned }}
+				{{ .Render "pinned" }}
+			{{ else }}
 				{{ .Render "summary" }}
 			{{ end }}
 		{{ end }}
