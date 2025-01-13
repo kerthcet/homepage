@@ -8,7 +8,7 @@ categories:
   - Work
 tags:
   - 2025
-  - OpenSource
+  - opensource
 pinned: true
 ---
 

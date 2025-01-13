@@ -8,10 +8,10 @@ categories:
   - Talk
 tags:
   - 2024
-  - Kubernetes
-  - KubeCon
-  - Scheduling
-  - OpenSource
+  - kubernetes
+  - kubecon
+  - scheduling
+  - opensource
 ---
 
 Give a talk with [@Huang-Wei](https://github.com/Huang-Wei) from Apple for _Kubernetes SIG-Scheduling Deep Dive_. [Slides here](https://github.com/kerthcet/Slides/blob/main/year2024/kubecon-eu/KubeConEU24-SIG-Scheduling.key).

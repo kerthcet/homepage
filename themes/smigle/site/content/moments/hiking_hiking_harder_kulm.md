@@ -8,8 +8,8 @@ categories:
   - Travel
 tags:
   - 2024
-  - Switzerland
-  - Hiking
+  - switzerland
+  - hiking
 ---
 
 Hiking to Harder Kulm, the top of Interlaken.

@@ -8,7 +8,7 @@ categories:
   - Life
 tags:
   - 2024
-  - Cat
+  - cat
 ---
 
 He's a handsome boy now.

@@ -8,7 +8,7 @@ categories:
   - Work
 tags:
   - 2024
-  - Stats
+  - stats
 truncated: true
 ---
 

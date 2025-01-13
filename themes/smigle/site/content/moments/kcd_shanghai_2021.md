@@ -8,9 +8,9 @@ categories:
   - Talk
 tags:
   - 2021
-  - Kubernetes
-  - KCD
-  - OpenSource
+  - kubernetes
+  - kcd
+  - opensource
 ---
 
 Glad to join the panel to discuss about the Pros and Cons of OpenSource and how to contribute to OpenSource projects.

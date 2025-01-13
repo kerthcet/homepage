@@ -8,9 +8,9 @@ categories:
   - Travel
 tags:
   - 2024
-  - Stadium
-  - Football
-  - France
+  - stadium
+  - football
+  - france
 ---
 
 **Parc des Princes**

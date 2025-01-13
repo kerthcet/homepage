@@ -8,9 +8,9 @@ categories:
   - Travel
 tags:
   - 2024
-  - Stadium
-  - Football
-  - Italy
+  - stadium
+  - football
+  - italy
 ---
 
 **San Siro**

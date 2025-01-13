@@ -8,13 +8,13 @@ categories:
   - Talk
 tags:
   - 2023
-  - Kubernetes
-  - KubeCon
-  - Batch
-  - AI
-  - Scheduling
-  - Ray
-  - OpenSource
+  - kubernetes
+  - kubecon
+  - batch
+  - ai
+  - scheduling
+  - ray
+  - opensource
 ---
 
 Give a talk with [@Basasuya](https://github.com/Basasuya) from ByteDance about _Sailing ray workloads with [KubeRay](https://github.com/ray-project/kuberay) and [Kueue](https://github.com/kubernetes-sigs/kueue) on Kubernetes_. [Slides here](https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-china/kueue/Ray%20%26%20Kueue%20KubeCon-2023%20China%20.pdf).

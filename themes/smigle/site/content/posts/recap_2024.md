@@ -8,7 +8,7 @@ categories:
   - Life
 tags:
   - 2024
-  - Recap
+  - recap
 ---
 
 On January 1st, 2024, I outlined three goals for the coming year,
