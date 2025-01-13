@@ -8,7 +8,7 @@ categories:
   - Work
 tags:
   - 2021
-  - stats
+  - Stats
 truncated: true
 ---
 

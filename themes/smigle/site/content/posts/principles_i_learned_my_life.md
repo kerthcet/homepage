@@ -8,7 +8,7 @@ categories:
   - Life
 tags:
   - 2025
-  - summary
+  - Summary
 draft: true
 pinned: true
 ---
