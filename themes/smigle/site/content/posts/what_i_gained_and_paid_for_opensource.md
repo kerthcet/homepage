@@ -46,7 +46,7 @@ Now, let' get to the point, here're several points I can think of about the moti
 
 - **Connection and Collaboration**: One of the paybacks of open source maintainers is the opportunity to attend the conferences and share the projects. This is also a good chance to communicate with other maintainers for further cooperations, building friendships the same time.
 
-- **Personal Interest**: Open source is not all about work, it may be driven by small interest like building something funny, but maybe grow into a business in the future, who knows.
+- **Personal Interest**: Open source is not all about work, it could be driven by small interest like building something funny, but maybe grow into a business in the future, who knows.
 
 Open source is great, but it pays, more or less, and usually the time. When I started to contribute to Kubernetes, because of the huge code base and years of history, I have to understand the whole system design before contributing, I spent countless hours of my own time on this. And because I live in Shanghai, I have to join the mid-night biweekly meetings which is usually European or North American time zone. I gave up after one or two years just because my body can't bear it. We have an APAC monthly meeting then but cancelled after one year because of few attendees, and that's another story I can share in the future.
 
