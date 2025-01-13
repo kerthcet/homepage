@@ -44,7 +44,7 @@ Now, let' get to the point, here're several points I can think of about the moti
 
 - **Portfolio Building**: Job interview is one way to establish trust relationship between the interviewee and employer. Open source, on the other hand, provides concrete stats which is more traceable and trustable, opening doors to more career opportunities, especially the adopter companies. And you may have the chance to earn a consulting work as well.
 
-- **Connection and Collaboration**: One of the paybacks of open source maintainers is the opportunity to attend the conferences and share the projects. This is also a good chance to communicate with other maintainers for further cooperations, building friendships as well.
+- **Connection and Collaboration**: One of the paybacks of open source maintainers is the opportunity to attend the conferences and share the projects. This is also a good chance to communicate with other maintainers for further cooperations, building friendships the same time.
 
 - **Personal Interest**: Open source is not all about work, it may be driven by small interest like building something funny, but maybe grow into a business in the future, who knows.
 
