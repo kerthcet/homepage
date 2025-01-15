@@ -21,14 +21,18 @@ menu:
       name: Moments
       url: /moments/
       weight: 4
+    - identifier: misc
+      name: MISC
+      url: /misc/
+      weight: 5
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 5
+      weight: 6
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 6
+      weight: 7
 params:
   abbrDateFmt: "Jan 2"
   author: "kerthcet"
