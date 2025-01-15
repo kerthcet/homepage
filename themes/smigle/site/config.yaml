@@ -55,4 +55,4 @@ params:
 pagination:
   pagerSize: 10
 mainSections: ["posts", "moments"]
-summaryLength: 20
+summaryLength: 15
