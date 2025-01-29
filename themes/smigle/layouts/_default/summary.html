@@ -10,9 +10,9 @@
     <a href="{{ .Permalink }}">Read more...</a>
     {{ else }}
     <p>{{ .Summary }}</p>
-      {{ if .Truncated }}
-      <a href="{{ .Permalink }}">Read more...</a>
-      {{ end }}
+    {{ if .Truncated }}
+    <a href="{{ .Permalink }}">Read more...</a>
+    {{ end }}
     {{ end }}
   </div>
 </article>

@@ -58,5 +58,5 @@ params:
   subtitle: "Software Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
 pagination:
   pagerSize: 10
-mainSections: ["posts", "moments"]
+mainSections: ["posts", "moments", "misc"]
 summaryLength: 15
