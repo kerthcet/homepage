@@ -9,6 +9,7 @@ categories:
 tags:
   - 2024
   - cat
+  - bentley
 ---
 
 He's a handsome boy now.

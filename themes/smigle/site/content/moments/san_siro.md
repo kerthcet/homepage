@@ -11,6 +11,7 @@ tags:
   - stadium
   - football
   - italy
+  - milan
 ---
 
 **San Siro**

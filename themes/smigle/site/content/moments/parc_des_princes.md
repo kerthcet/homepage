@@ -11,6 +11,7 @@ tags:
   - stadium
   - football
   - france
+  - paris
 ---
 
 **Parc des Princes**

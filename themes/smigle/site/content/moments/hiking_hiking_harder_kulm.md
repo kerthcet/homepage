@@ -10,6 +10,7 @@ tags:
   - 2024
   - switzerland
   - hiking
+  - interlaken
 ---
 
 Hiking to Harder Kulm, the top of Interlaken.
