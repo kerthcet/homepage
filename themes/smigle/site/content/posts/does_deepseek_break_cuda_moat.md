@@ -8,7 +8,6 @@ categories:
   - Work
 tags:
   - 2025
-  - deepseek
   - ai
 ---
 
@@ -48,7 +47,7 @@ From the PTX point of view, it's not, because PTX is still part of the CUDA syst
 
 After all, I personally think PTX optimization could be a trend if the performance improvement is significant, and the DeepSeek team do have amazing infrastructure engineers to make this happen.
 
-## Reference
+## References
 - https://www.alphaxiv.org/pdf/2412.19437
 - https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-breakthrough-bypasses-industry-standard-cuda-uses-assembly-like-ptx-programming-instead
 - https://x.com/IanCutress/status/1884374138787357068
