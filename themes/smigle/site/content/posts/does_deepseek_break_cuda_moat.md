@@ -39,7 +39,7 @@ For short, PTX is still part of the CUDA system.
 
 From the report, DeepSeek-V3 introduced the DualPipe to efficient overlap the forward and backward computation and communication, reduce the pipeline bubbles significantly. However, to ensure this, they need direct low-level hardware control, like dynamic adjusting wraps by actual workloads, auto-tune the communication chunk size to reduce the L2 cache, preventing the interference to other computation SMs. CUDA doesn't provide such low-level control, PTX does.
 
-Also, someone thought that the PTX adoption is mostly because of the H800 hardware limitation, as we known, compared to H100, H800 has similar computing power but lower NVLink bandwidth and HBM bandwidth, which will impact the GPU communication a lot. PTX could squeeze out the performance by optimizing the communication. However, even with H100, I think the optimization is still unavoidable to achieve the overlap of computation and communication.
+Also, someone thought that the PTX adoption is mostly because of the H800 hardware limitation, as we know, compared to H100, H800 has similar computing power but lower NVLink bandwidth and HBM bandwidth, which will impact the GPU communication a lot. PTX could squeeze out the performance by optimizing the communication. However, even with H100, I think the optimization is still unavoidable to achieve the overlap of computation and communication.
 
 ## Does DeepSeek Break CUDA Moat?
 

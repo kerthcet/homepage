@@ -30,10 +30,16 @@
 {{ else }}
   {{ $duration = .ReadingTime }}
 {{ end }}
+{{ $span := "Posted on " }}
+{{ if eq .Type "moments" }}
+  {{ $span = "Momented on" }}
+{{ else if eq .Type "misc" }}
+  {{ $span = "MISCed on" }}
+{{ end }}
 
 <div class="post-meta">
   <strong>
-    <span>Posted on</span>
+    <span>{{ $span }}</span>
     <time>{{ .Date.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time>
     {{ with .Params.categories }}<span>in</span>{{ end }}
     {{ range $key, $value := .Params.categories -}}
