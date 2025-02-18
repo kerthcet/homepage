@@ -3,7 +3,7 @@ title: About Me
 layout: default
 ---
 
-{{< figure src="/images/profile.jpg" alt="profile" class="center-width-half" >}}
+{{< figure src="/images/profile.jpg" alt="profile" class="center-width-80-percent" >}}
 
 A software engineer living in Shanghai, right now working for DaoCloud.
 

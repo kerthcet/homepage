@@ -5,6 +5,13 @@
     width: 50%;
 }
 
+.center-width-80-percent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
 h1.pinned-title {
     display: flex;
     align-items: center;
