@@ -5,15 +5,16 @@ subtitle: ""
 date: 2025-01-28
 description: ""
 categories:
+  - Work
 tags:
   - 2025
   - ai
 ---
 
-A month ago, Ilya Sutskever, the ex co-founder and chief scientist at OpenAI, gave a [talk](https://www.youtube.com/watch?v=1yvBqasHLZs&t) at the NeurIPS 2024 and announced that: **PreTraining is Over**. He reveals the fact that the available data of internet for training large language models is exhausted, which somehow challenges the [scaling law](https://arxiv.org/pdf/2001.08361) (for short, the performance and accuracy of AI model improves as a function of increasing the scale in *model size*, *dataset size* and *compute power*).
+A month ago, Ilya Sutskever, the ex co-founder and chief scientist at OpenAI, gave a [talk](https://www.youtube.com/watch?v=1yvBqasHLZs&t) at the NeurIPS 2024 and announced that: **PreTraining is Over**. He reveals the fact that the available data of internet for training large language models is exhausted, which somehow challenges the [scaling law](https://arxiv.org/pdf/2001.08361) (for short, the performance and accuracy of AI model improves as a function of increasing the scale in _model size_, _dataset size_ and _compute power_).
 
 DeepSeek v3 definitely changes the game, with 1/10 cost of Llama3 405B but better performance, which pushes the boundary of the scaling law. To achieve this, the DeepSeep team did a lot of innovations.
-First of all, DeepSeek v3 is a MoE model, this is not a secret, compared to dense model, it reduces the computation cost a lot but still keeps the model capacity with a large model size, 671B specifically. What DeepSeek team introduced additionally is the **auxiliary-loss-free** loadbalancing algo, compared to *auxiliary-loss-based*, which leads to expert load unfairly, it improves the distributed training efficiency and stability a lot. The second one is the **MLA** (multi-head latent attention), a new attention mechanism which reduces the vRAM requirements a lot. The third one is the **fine-gained FP8 mixed-precision training**, which reduces the computation cost and vRAM requirements both, 2x faster than FP16 at most.
+First of all, DeepSeek v3 is a MoE model, this is not a secret, compared to dense model, it reduces the computation cost a lot but still keeps the model capacity with a large model size, 671B specifically. What DeepSeek team introduced additionally is the **auxiliary-loss-free** loadbalancing algo, compared to _auxiliary-loss-based_, which leads to expert load unfairly, it improves the distributed training efficiency and stability a lot. The second one is the **MLA** (multi-head latent attention), a new attention mechanism which reduces the vRAM requirements a lot. The third one is the **fine-gained FP8 mixed-precision training**, which reduces the computation cost and vRAM requirements both, 2x faster than FP16 at most.
 
 They also optimized the network communications, like the DualPipe to reduce the computation buble which helps to improve the GPU utilization. They even bypassed the CUDA and employed PTX instructions to accelerate the communication. They just rebuilt the infrastructure from scratch.
 

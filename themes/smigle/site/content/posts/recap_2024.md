@@ -5,7 +5,7 @@ subtitle: ""
 date: 2024-12-31
 description: ""
 categories:
-  - Life
+  - Work
 tags:
   - 2024
   - recap
