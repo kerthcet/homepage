@@ -14,6 +14,6 @@ tags:
   - manchester
 ---
 
-**Etihad Stadium**
+Etihad Stadium.
 
 {{< figure src="/images/moments/etihad.jpg" alt="session" class="center" >}}

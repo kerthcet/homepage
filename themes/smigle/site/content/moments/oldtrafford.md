@@ -14,6 +14,6 @@ tags:
   - manchester
 ---
 
-**Old Trafford**
+Raining in Old Trafford.
 
 {{< figure src="/images/moments/oldtrafford.jpg" alt="session" class="center" >}}

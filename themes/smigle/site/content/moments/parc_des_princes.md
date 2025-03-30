@@ -14,6 +14,6 @@ tags:
   - paris
 ---
 
-**Parc des Princes**
+Parc des Princes.
 
 {{< figure src="/images/moments/parc_des_princes.jpg" alt="session" class="center" >}}

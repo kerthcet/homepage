@@ -14,6 +14,6 @@ tags:
   - milan
 ---
 
-**San Siro**
+San Siro.
 
 {{< figure src="/images/moments/san_siro.jpg" alt="session" class="center-width-half" >}}

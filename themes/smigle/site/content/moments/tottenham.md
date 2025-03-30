@@ -14,6 +14,6 @@ tags:
   - london
 ---
 
-**Tottenham Hotspur Stadium**
+Tottenham Hotspur Stadium.
 
 {{< figure src="/images/moments/tottenham.jpg" alt="session" class="center" >}}
