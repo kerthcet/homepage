@@ -7,7 +7,8 @@ layout: default
 
 A software engineer living in Shanghai, right now working for DaoCloud.
 
-I have years of experience in cloud computing, distributed systems, Dev/ML Ops, now mainly focus on building AI infrastructure in [InftyAI](https://github.com/InftyAI) org, particularly around LLM inference these days, such as [llmaz](https://github.com/InftyAI/llmaz) and [manta](https://github.com/InftyAI/Manta), join us if you like.
+I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on building AI infrastructure in [InftyAI](https://github.com/InftyAI) org, particularly around LLM inference these days.
+I'm also the creator of [ModelSpec.ai](https://modelspec.ai/), which aims to deliver the latest AI trending news to the public.
 
 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and helped to incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws) and more.
 
