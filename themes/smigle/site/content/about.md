@@ -11,9 +11,9 @@ I have years of experience in cloud computing, distributed systems, DevOps & MLO
 
 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and have incubated several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws) and more.
 
-In my spare time, I work on some side projects like [ModelSpec.ai](https://modelspec.ai/), which aims to deliver the latest AI trending news to the public.
+In my spare time, I run some projects like [ModelSpec.ai](https://modelspec.ai/), which aims to deliver the latest AI trending news to the public.
 
-Happy to chat with you about anything, feel free to reach out to me via the contacts in the footer.
+Feel free to reach out if you have any questions or want to discuss anything related to AI, cloud, open source, sports or starting a new business.
 
 [![](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/kerthcet/profile-summary-card-output)
 | ![Image 3](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/3-stats.svg) | ![Image 4](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/4-productive-time.svg) |
