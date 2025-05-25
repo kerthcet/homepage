@@ -5,11 +5,11 @@ layout: default
 
 {{< figure src="/images/profile.jpg" alt="profile" class="center-width-80-percent" >}}
 
-A software engineer living in Shanghai, right now working for DaoCloud.
+A software engineer living in Shanghai, right now working at DaoCloud.
 
 I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on building AI infrastructures in [InftyAI](https://github.com/InftyAI) community, particularly around LLM inference these days.
 
-I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and incubated several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws) and more.
+I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws) and more.
 
 In my spare time, I run some side projects like [ModelSpec.ai](https://modelspec.ai/), which aims to deliver the latest AI trending news to the public.
 
