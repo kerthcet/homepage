@@ -26,4 +26,4 @@ Looking forward to the next KubeCon HK in June, I will have a keynote this time,
 
 _Photo with Kubeflow guys:_
 
-{{< figure src="/images/misc/kubeflow.png" alt="session" class="center" >}}
+{{< figure src="/images/posts/kubeflow.png" alt="session" class="center" >}}
