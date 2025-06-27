@@ -18,7 +18,7 @@ So before the KubeCon, I took a view of the schedule and sponsors, different fro
 
 In regard to the event itself, because I'm focused on AI stuff these days, I have more eyes on AI sessions, however, I would like to say that most of the AI sessions of this KubeCon are not that attractive, a big part of them are projects we're familiar with, a bit tired of that. I do hope to see more innovations to tackle AI challenges, I guess we need to wait more time before they're ready. The most interesting session I've heard is about how run.ai accelerates the model downloading via loading model weights directly to GPU memory, which is highly related to what I'm doing right now.
 
-Actually it's my easiest KubeCon ever because I only have one lighting talk and no booth this time. However, I don't understand why the lighting talk speakers can not get a free ticket.
+Actually it's the most relaxed KubeCon I've ever attended since I only have one lighting talk and no booth this time, I can enjoy the whole session. However, I don't understand why the lighting talk speakers can not get a free ticket.
 
 The rest is all about social. Have great talks with all the guys across the community, like the Kueue, Kubeflow, Kubernetes, vLLM. KubeCon is always about sharing and connecting, I really enjoy the time with all the friends and community members.
 
