@@ -5,7 +5,7 @@ layout: default
 
 {{< figure src="/images/profile.jpg" alt="profile" class="center-width-80-percent" >}}
 
-A software engineer living in London, right now working for a stealth AI startup as the funding engineer.
+A software engineer living in London, right now working for a stealth AI startup as the founding engineer.
 
 I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on building AI infrastructures in [InftyAI](https://github.com/InftyAI) community, particularly around LLM inference these days.
 
