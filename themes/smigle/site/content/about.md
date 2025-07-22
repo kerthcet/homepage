@@ -5,9 +5,9 @@ layout: default
 
 {{< figure src="/images/profile.jpg" alt="profile" class="center-width-80-percent" >}}
 
-A software engineer living in Cambridge, UK, right now working for a stealth AI startup as the founding engineer.
+A software engineer living in London, right now working at a stealth AI startup as the founding engineer.
 
-I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, nowadays mainly focus on developing AI agents and LLM inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community committed to building solid AI infrastructures, like [llmaz](https://github.com/InftyAI/llmaz). Welcome to join us if you're interested.
+I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on developing AI agents and LLM inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community committed to building solid AI infrastructures, like [llmaz](https://github.com/InftyAI/llmaz). Welcome to join us if you're interested.
 
 Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws) and more.
 
