@@ -11,7 +11,7 @@ A software engineer living in London, right now working at a stealth AI startup 
 
 I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on developing AI agents and LLM inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community committed to building solid AI infrastructures, like [llmaz](https://github.com/InftyAI/llmaz). Welcome to join us if you're interested.
 
-Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws) and more.
+Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws). Meanwhile, serving as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads.
 
 In my spare time, I run some side projects like [ModelSpec.ai](https://modelspec.ai/), which aims to deliver the latest AI trending news to the public.
 
