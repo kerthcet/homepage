@@ -1,13 +1,18 @@
 {{ define "main" }}
-	<main>
-		{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-		{{ range $paginator.Pages }}
-			{{ if .Params.pinned }}
-				{{ .Render "pinned" }}
-			{{ else }}
-				{{ .Render "summary" }}
-			{{ end }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
-	</main>
+<main>
+	{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+
+	{{ $sorted := sort $pages "Params.pinned" "desc" }}
+
+	{{ $paginator := .Paginate $sorted }}
+	{{ range $paginator.Pages }}
+	{{ if .Params.pinned }}
+	{{ .Render "pinned" }}
+	{{ else }}
+	{{ .Render "summary" }}
+	{{ end }}
+	{{ end }}
+
+	{{ partial "pagination.html" . }}
+</main>
 {{ end }}

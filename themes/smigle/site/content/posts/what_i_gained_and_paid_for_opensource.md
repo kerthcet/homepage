@@ -9,7 +9,6 @@ categories:
 tags:
   - 2025
   - opensource
-pinned: false
 ---
 
 Days ago, somebody asked me why I want to contribute to open source, what do I expect from

@@ -1,6 +1,6 @@
 <article class="pinned">
   <a href="{{ .Permalink }}">
-    <h1 class="pinned-title"><img src="pinned.png" alt="Logo" class="logo">{{ .Title }}</h1>
+    <h1 class="pinned-title"><img src="/images/pinned.png" alt="Logo" class="logo">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<h3 class="subtitle">{{ . }}</h3>{{ end }}
   </a>
   {{ partial "postMeta.html" . }}
@@ -10,9 +10,9 @@
     <a href="{{ .Permalink }}">Read more...</a>
     {{ else }}
     <p>{{ .Summary }}</p>
-      {{ if .Truncated }}
-      <a href="{{ .Permalink }}">Read more...</a>
-      {{ end }}
+    {{ if .Truncated }}
+    <a href="{{ .Permalink }}">Read more...</a>
+    {{ end }}
     {{ end }}
   </div>
 </article>
