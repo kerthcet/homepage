@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: 10 Principles I Learned in My Life
+title: 10 Principles I've Learned in My Life
 subtitle: ""
 date: 2025-01-10
 description: ""
