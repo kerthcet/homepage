@@ -12,7 +12,7 @@ tags:
 pinned: true
 ---
 
-The 10 principles I've learned in my life -- continuously updating.
+10 principles I've learned in my life -- continuously updating. No particular order.
 
 1. Figure out what not to do is just as important as the opposite. Good at one thing rather than know three things.
 
