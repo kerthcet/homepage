@@ -20,9 +20,9 @@ pinned: true
 
 3. You're the average of the people around you. Surround yourself with people who can push you to succeed.
 
-4. Failing to plan is planning to fail. Time will be wasted slowly and then suddenly.
+4. Failing to plan is planning to fail. Time will be wasted slowly, then suddenly.
 
-5. Always choose the harder way. It's less crowded and more rewarding, more challenging as well.
+5. Extraordinary begins where average ends. Be different from the crowd.
 
 6. Pay for your time. Invest your time in what matters most.
 
