@@ -22,14 +22,14 @@ pinned: true
 
 4. Failing to plan is planning to fail. Time will be wasted slowly, then suddenly.
 
-5. Prioritize things. Focus on the 20% that brings 80% of the results.
+5. Don't solve the problem itself. Elevate your thinking, you may find entirely different answers.
 
 6. Pay for your time. Invest your time in what matters most.
 
-7. Don't chase easy, chase growth.
+7. Don't chase easy, chase growth. This makes you different from the ordinary.
 
 8. Take good care of your family. They're the backbone of your life.
 
-9. Train your body, reinforce mental toughness.
+9. Develop a love for a sport. It builds your body and fortifies your mentality.
 
 10. Life is a marathon. Don't rush and run at your own pace, time will tell everything.
