@@ -20,7 +20,7 @@ pinned: true
 
 3. You're the average of the people around you. Surround yourself with people who can make you better.
 
-4. Failing to plan is planning to fail. Time will be wasted slowly, then suddenly.
+4. Failing to plan is planning to fail. Or time will be wasted slowly, then suddenly.
 
 5. Don't solve the problem itself. Elevate your thinking, you may find entirely different answers.
 
