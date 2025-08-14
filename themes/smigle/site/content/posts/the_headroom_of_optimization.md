@@ -29,13 +29,9 @@ However, the optimization is not free, it comes with a cost, which is the **Cost
 
 So generally a headroom of optimization can be calculated by the formula :
 
-$$
-\text{Headroom} \approx \frac{
-(\text{Search Space}) \times (\text{Scale Size}) \times (\text{Impact Weight})
-}{
-\text{Cost Factor}
-}
-$$
+{{< math >}}
+\text{Headroom} \approx \frac{(\text{Search Space}) \times (\text{Scale Size}) \times (\text{Impact Weight})}{\text{Cost Factor}}
+{{< /math >}}
 
 where:
 - **Search Space** is the number of impacting factors, e.g. number of hyperparameters. For bounded search space, it's easy to find the upper limit, like the node utilization in a cluster.
