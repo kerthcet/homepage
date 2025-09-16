@@ -7,7 +7,7 @@ layout: default
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red)](https://github.com/sponsors/kerthcet)
 
-A software engineer living in London, right now working at a stealth AI startup as the founding engineer. Dreaming to establish a football club one day.
+A software engineer living in London, right now working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Dreaming to establish a football club one day.
 
 I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on developing AI agents and LLM inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community committed to building solid AI infrastructures, like [llmaz](https://github.com/InftyAI/llmaz) and [AlphaTrion](https://github.com/InftyAI/alphatrion). Welcome to join us if you're interested.
 
