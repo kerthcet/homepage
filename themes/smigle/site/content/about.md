@@ -17,7 +17,7 @@ In my spare time, I run some side projects like [ModelSpec.ai](https://modelspec
 
 Feel free to reach out if you have any questions or want to discuss something related to AI, cloud, open source or starting a new business.
 
-[![](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/kerthcet/profile-summary-card-output)
+[![](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/kerthcet)
 | ![Image 3](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/3-stats.svg) | ![Image 4](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/4-productive-time.svg) |
 |---------------------------------|---------------------------------|
 | ![Image 1](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/1-repos-per-language.svg) | ![Image 2](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/master/profile-summary-card-output/github/2-most-commit-language.svg) |
