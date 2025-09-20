@@ -10,7 +10,7 @@ tags:
   - 2025
   - summary
 pinned: true
-skip: true
+draft: true
 ---
 
 1. Don't solve the problem itself. Elevate your thinking, you may find entirely different answers.
