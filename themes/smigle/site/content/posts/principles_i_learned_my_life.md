@@ -14,7 +14,7 @@ pinned: true
 
 10 principles I've learned in my life -- continuously updating. No particular order.
 
-1. Embrace minimalism. Simplify your life and focus on what truly matters.
+1. Embrace minimalism. It simplifies your life and knowing what not to do is just as important as the opposite.
 
 2. Be long-termist. Don't follow the trends, find out what is valuable and repeat it, what is invalid and avoid it.
 
