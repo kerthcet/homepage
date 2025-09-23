@@ -14,22 +14,22 @@ pinned: true
 
 10 principles I've learned in my life -- continuously updating. No particular order.
 
-1. Figure out what not to do is just as important as the opposite. Good at one thing rather than know three things.
+1. Embrace minimalism. Simplify your life and focus on what truly matters.
 
-2. Persistence is also a gift. Find out what is valuable and repeat it, what is invalid and avoid it.
+2. Be long-termist. Don't follow the trends, find out what is valuable and repeat it, what is invalid and avoid it.
 
-3. Unity of knowledge and action. Talk is cheap, show me the action.
+3. You're the average of the people around you. Surround yourself with people who can make you better.
 
-4. You're the average of the people around you. Surround yourself with people who can make you better.
+4. Failing to plan is planning to fail. No milestone, no progress.
 
-5. Failing to plan is planning to fail. No milestone, no progress.
+5. Think big, start small. All great things start from a small step.
 
-6. Think big, start small. All great things start from small.
+6. Price your time. Pay for it or delegate it if not worth the cost.
 
-7. Price your time. Pay for it or delegate it if not worth the cost.
+7. Chase growth, not comfort in decision-making. This makes you different from the ordinary.
 
-8. Chase growth, not comfort. This makes you different from the ordinary.
+8. Take good care of your family. They're the backbone of your life.
 
-9. Take good care of your family. They're the backbone of your life.
+9. Cultivate a love for a sport. Life is a marathon, good health lets you run farther.
 
-10. Develop a love for a sport. It builds your body and fortifies your mentality.
+10. Unity of knowledge and action. Or the other nine principles are meaningless.
