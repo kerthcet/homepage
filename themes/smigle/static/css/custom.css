@@ -12,6 +12,10 @@
     width: 80%;
 }
 
+h1 {
+    font-size: 25px;
+}
+
 h1.pinned-title {
     font-size: 25px;
     display: flex;
