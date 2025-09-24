@@ -13,13 +13,14 @@
 }
 
 h1.pinned-title {
+    font-size: 25px;
     display: flex;
     align-items: center;
     margin: 1.3rem 0 0 0;
 }
 
 h1.pinned-title .logo {
-  width: 15px;
-  height: auto;
-  margin-right: 0.5rem;
+    width: 15px;
+    height: auto;
+    margin-right: 0.5rem;
 }
