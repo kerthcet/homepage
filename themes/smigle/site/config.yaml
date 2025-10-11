@@ -53,7 +53,7 @@ params:
       url: https://www.linkedin.com/in/kerthcet/
     - name: WeChat
       url: https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg
-  subtitle: "R&D Engineer | OpenSource Advocate | Cat Keeper | Sports Enthusiast ⚽️ 🏀 🥊"
+  subtitle: "R&D Engineer • OpenSource Enthusiast • Cat Owner • Sports Fan ⚽️ 🏀 🥊"
 pagination:
   pagerSize: 10
 mainSections: ["posts", "moments", "misc"]
