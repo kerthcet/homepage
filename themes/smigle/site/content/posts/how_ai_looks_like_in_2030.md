@@ -25,7 +25,7 @@ tags:
 
 6. Family workstations with AI built-in will be a must-have for everyone, just like fridges and TVs today. They're safer, faster and more privacy-preserving than cloud AI services.
 
-7. AI for discovery is the new era, we will see new materials, drugs, and breakthroughs discovered by AI systems, together with human scientists.
+7. AI for discovery is the new era, we will see new materials, drugs, or other scientific breakthroughs discovered by AI systems together with human scientists.
 
 8. Jobs will be taken over by AI gradually, more and more people will work as independent contractors rather than working for companies directly.
 
