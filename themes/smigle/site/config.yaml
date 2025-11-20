@@ -21,14 +21,18 @@ menu:
       name: Moments
       url: /moments/
       weight: 4
+    - identifier: talks
+      name: Talks
+      url: /talks/
+      weight: 5
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 5
+      weight: 6
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 6
+      weight: 7
 params:
   abbrDateFmt: "Jan 2"
   author: "kerthcet"
@@ -56,5 +60,5 @@ params:
   subtitle: "R&D Engineer • OpenSource Enthusiast • Cat Owner • Sports Fan ⚽️ 🏀 🥊"
 pagination:
   pagerSize: 10
-mainSections: ["posts", "moments", "misc"]
+mainSections: ["posts", "moments", "misc", "talks"]
 summaryLength: 15

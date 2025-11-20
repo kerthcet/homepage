@@ -5,7 +5,7 @@ subtitle: ""
 date: 2025-10-22
 description: ""
 categories:
-  - Life
+  - Work
 tags:
   - 2025
   - ai
