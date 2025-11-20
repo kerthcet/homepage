@@ -18,14 +18,6 @@ Keynote about how to build a LLM inference platform for heterogeneous chips on t
 
 {{< figure src="/images/talks/kubeconch_llmaz.jpg" alt="session" class="center" >}}
 
-Visit the youtube video here:
-
-{{< youtube iGXJ1eIsvuU >}}
-
 Also give a talk about sailing multi-host inference with LWS.
 
 {{< figure src="/images/talks/kubeconch_lws.jpg" alt="session" class="center" >}}
-
-Youtube video here:
-
-{{< youtube Jou7j-X_VJA >}}

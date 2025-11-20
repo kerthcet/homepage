@@ -22,14 +22,6 @@ See [slides](https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-china
 
 {{< figure src="/images/talks/kubeconch_ray_2023.jpg" alt="session" class="center" >}}
 
-Our youtube video here:
-
-{{< youtube Q-sQLDMeJ8M >}}
-
 Also have aother talk with [@denkensk](https://github.com/denkensk) from Shopee for _Kubernetes SIG-Scheduling Intro and Deep Dive_. See [slides](https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-china/sig-scheduling_intro_deep_dive.pdf) here.
 
 {{< figure src="/images/talks/kubeconch_scheduler_2023.jpg" alt="session" class="center" >}}
-
-Our youtube video here:
-
-{{< youtube mLsIcZyop5o >}}
