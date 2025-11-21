@@ -11,7 +11,7 @@ menu:
       weight: 1
     - identifier: about
       name: About Me
-      url: /about/
+      url: /about-me/
       weight: 2
     - identifier: posts
       name: Posts
