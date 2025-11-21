@@ -3,7 +3,7 @@ title: About Me
 layout: default
 ---
 
-{{< figure src="/images/profile.jpg" alt="profile" class="center-width-80-percent" >}}
+<!-- {{< figure src="/images/profile.jpg" alt="profile" class="center-width-80-percent" >}} -->
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red)](https://github.com/sponsors/kerthcet)
 
