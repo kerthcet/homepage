@@ -5,13 +5,14 @@ subtitle: ""
 date: 2025-06-09
 description: ""
 categories:
-  - Talk
+  - Work
 tags:
   - 2025
   - kubecon
   - inference
   - opensource
   - keynote
+  - talk
 ---
 
 Keynote about how to build a LLM inference platform for heterogeneous chips on top of vLLM.

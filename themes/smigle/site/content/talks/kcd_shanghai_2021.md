@@ -5,12 +5,13 @@ subtitle: ""
 date: 2021-11-06
 description: ""
 categories:
-  - Talk
+  - Work
 tags:
   - 2021
   - kubernetes
   - kcd
   - opensource
+  - talk
 ---
 
 Glad to join the panel to discuss about the Pros and Cons of OpenSource and how to contribute to OpenSource projects.

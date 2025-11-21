@@ -5,7 +5,7 @@ subtitle: ""
 date: 2023-09-27
 description: ""
 categories:
-  - Talk
+  - Work
 tags:
   - 2023
   - kubernetes
@@ -15,6 +15,7 @@ tags:
   - scheduling
   - ray
   - opensource
+  - talk
 ---
 
 Give a talk with [@Basasuya](https://github.com/Basasuya) from ByteDance about _Sailing ray workloads with [KubeRay](https://github.com/ray-project/kuberay) and [Kueue](https://github.com/kubernetes-sigs/kueue) on Kubernetes_.

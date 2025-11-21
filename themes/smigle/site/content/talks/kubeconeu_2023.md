@@ -5,7 +5,7 @@ subtitle: ""
 date: 2023-04-18
 description: ""
 categories:
-  - Talk
+  - Work
 tags:
   - 2023
   - kubernetes
@@ -13,6 +13,7 @@ tags:
   - batch
   - ai
   - opensource
+  - talk
 ---
 
 Give a talk with [@alculquicondor](https://github.com/alculquicondor) from Google about _How to build a batch system for the cloud with [Kueue](https://github.com/kubernetes-sigs/kueue)_. See [slides](https://github.com/kerthcet/Slides/blob/main/year2023/kubecon-eu/kueue-deepdive.pdf) here.
