@@ -9,6 +9,7 @@ categories:
 tags:
   - 2025
   - ai
+  - thoughts
 ---
 
 9 bold conjectures about what AI will be like in 5 years and how it will change our lives:
