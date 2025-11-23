@@ -28,6 +28,6 @@ Inference workloads are becoming increasingly prevalent and vital in Cloud Nativ
 
 LeaderWorkerSet, aka. LWS, is a dedicated multi-host inference project aims to solve this problem, it's a project under the guidance of Kubernetes SIG-Apps and Serving Working Group. It offers a couple of features like dual-template for different types of Pods, fine-gained rolling update strategies, topology managements and all-or-nothing failure handlings.
 
-In this session, we'll introduce the capacities of lws and showcase the practice from our adopters like nvidia, google, and we'll demonstrate the integration with the most popular inference engines, such as vLLM, SGLang. ([Slides](https://github.com/kerthcet/Slides/blob/main/year2025/kubecon-china/KubeconHK-lws.key))
+In this session, we'll introduce the capacities of lws and showcase the practice from our adopters like nvidia, google, and we'll demonstrate the integration with the most popular inference engines, such as vLLM, SGLang. ([Slides](https://github.com/kerthcet/Slides/blob/main/year2025/kubecon-china/KubeconHK-lws.pdf))
 
 {{< figure src="/images/talks/kubeconch_lws.jpg" alt="session" class="center" >}}
