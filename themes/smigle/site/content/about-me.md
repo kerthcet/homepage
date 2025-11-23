@@ -9,7 +9,7 @@ layout: default
 
 R&D engineer living in Cambridge UK, right now working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. I enjoy building scalable infrastructure and ML systems.
 
-I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on developing AI agents and LLM inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community committed to building solid AI infrastructure, like [llmaz](https://github.com/InftyAI/llmaz) and [AlphaTrion](https://github.com/InftyAI/alphatrion). Welcome to join us if you're interested.
+My background spans distributed systems, cloud infrastructure, DevOps & MLOps & LLMOps. These days I mainly focus on developing AI agents and model inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community dedicated to building solid AI infrastructure, including projects like [llmaz](https://github.com/InftyAI/llmaz) and [AlphaTrion](https://github.com/InftyAI/alphatrion). If you're interested, we'd love to have you join us!
 
 Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws). Meanwhile, serving as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads.
 
