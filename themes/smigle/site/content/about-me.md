@@ -13,7 +13,7 @@ I have years of experience in cloud computing, distributed systems, DevOps & MLO
 
 Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws). Meanwhile, serving as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads.
 
-In my spare time, I run some side projects like [ModelSpec.ai](https://modelspec.ai/), which aims to deliver the latest AI trending news to the public.
+In my spare time, I run some side projects like [ModelSpec.ai](https://modelspec.ai/), which aims to be the model hub and benchmark platform for AI models, still in early development.
 
 Feel free to reach out if you have any questions or want to discuss something related to AI, cloud, open source or starting a new business.
 
