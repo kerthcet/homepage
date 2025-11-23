@@ -15,4 +15,4 @@ tags:
 
 Feed *Nania* with bananas.
 
-{{< figure src="/images/moments/nania.jpg" alt="hello" class="center-width-half" >}}
+{{< figure src="/images/moments/nania.jpg" alt="hello" class="center-width-70-percent" >}}

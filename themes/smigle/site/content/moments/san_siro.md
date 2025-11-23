@@ -16,4 +16,4 @@ tags:
 
 San Siro.
 
-{{< figure src="/images/moments/san_siro.jpg" alt="session" class="center-width-half" >}}
+{{< figure src="/images/moments/san_siro.jpg" alt="session" class="center-width-70-percent" >}}
