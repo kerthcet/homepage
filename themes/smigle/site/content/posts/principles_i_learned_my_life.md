@@ -22,7 +22,7 @@ pinned: true
 
 4. Failing to plan is planning to fail. No milestone, no progress.
 
-5. Think big, start small. All great things begin with a simple small step.
+5. Think big, start small. What matters is movement, not perfection.
 
 6. Price your time. Either pay for it or delegate it if not worth the cost.
 
@@ -32,4 +32,4 @@ pinned: true
 
 9. Life is a marathon. Stay at the table, and your moment will come.
 
-10. Unity of knowledge and action. Or the other nine principles are meaningless.
+10. Unify knowledge and action. Or the other nine principles are meaningless, usually it's the hardest one.
