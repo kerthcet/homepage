@@ -18,7 +18,7 @@ tags:
 ### Keynote Session: Building a Large Model Inference Platform for Heterogeneous Chinese Chips Based on VLLM
 
 With the growing demand for heterogeneous computing power, Chinese users are gradually adopting domestic GPUs, especially for inference. vLLM, the most popular open-source inference project, has drawn widespread attention but does not support domestic chips.Chinese inference engines are still developing in functionality, performance, and ecosystem. In this session, we’ll introduce how to adapt vLLM to support domestic GPUs,enabling acceleration features like PageAttention, Continuous Batching, and Chunked Prefill. We’ll also cover performance bottleneck analysis and chip operator development to maximize hardware potential.
-Additionally, Kubernetes has become the standard for container orchestration and is the preferred platform for inference services. We’ll show how to deploy the adapted vLLM engine on Kubernetes using the open-source llmaz project with a few lines of code, and explore how llmaz handles heterogeneous GPU scheduling and our practices for monitoring and elastic scaling.
+Additionally, Kubernetes has become the standard for container orchestration and is the preferred platform for inference services. We’ll show how to deploy the adapted vLLM engine on Kubernetes using the open-source llmaz project with a few lines of code, and explore how llmaz handles heterogeneous GPU scheduling and our practices for monitoring and elastic scaling. ([Slides](https://github.com/kerthcet/Slides/blob/main/year2025/kubecon-china/KubeconHK-llmaz-ppt.pptx.pdf))
 
 {{< figure src="/images/talks/kubeconch_llmaz.jpg" alt="session" class="center" >}}
 

@@ -7,7 +7,7 @@ layout: default
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red)](https://github.com/sponsors/kerthcet)
 
-R&D engineer living in Cambridge UK, right now working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Dreaming to establish a football club one day.
+R&D engineer living in Cambridge UK, right now working at [Hiverge.ai](https://www.hiverge.ai/) building evolutionary agent.
 
 I have years of experience in cloud computing, distributed systems, DevOps & MLOps & LLMOps, now mainly focus on developing AI agents and LLM inference systems. I'm also the founder of [InftyAI](https://github.com/InftyAI), an open-source community committed to building solid AI infrastructure, like [llmaz](https://github.com/InftyAI/llmaz) and [AlphaTrion](https://github.com/InftyAI/alphatrion). Welcome to join us if you're interested.
 
