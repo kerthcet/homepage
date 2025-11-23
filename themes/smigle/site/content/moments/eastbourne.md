@@ -14,4 +14,4 @@ tags:
 
 Hiking in the South of England.
 
-{{< figure src="/images/moments/eastbourne.jpg" alt="session" class="center-width-half" >}}
+{{< figure src="/images/moments/eastbourne.jpg" alt="session" class="center-width-70-percent" >}}

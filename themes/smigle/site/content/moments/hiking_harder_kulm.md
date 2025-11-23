@@ -15,4 +15,4 @@ tags:
 
 Hiking to Harder Kulm, the top of Interlaken.
 
-{{< figure src="/images/moments/hiking_harder_kulm.jpg" alt="award" class="center-width-half" >}}
+{{< figure src="/images/moments/hiking_harder_kulm.jpg" alt="award" class="center-width-70-percent" >}}
