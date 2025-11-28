@@ -1,0 +1,6 @@
+{{ define "main" }}
+<main id="archive">
+    {{ with .Title }}<h1>Portfolio</h1>{{ end }}
+    {{ partial "portfolioByDate.html" . }}
+</main>
+{{ end }}

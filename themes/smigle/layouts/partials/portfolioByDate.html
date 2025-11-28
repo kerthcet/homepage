@@ -1,0 +1,21 @@
+{{ range .Data.Pages.GroupByDate "2006" }}
+<h3>{{ .Key }}</h3>
+<ul id="portfolioByDate">
+    {{ $pages := .Pages }}
+    {{ range $i, $p := $pages }}
+    <li>
+        <div class="date">
+            {{ $p.Date.Format (default "Jan 2" .Site.Params.abbrDateFmt) }}
+        </div>
+        <div class="intro">
+            {{ $p.Params.intro | markdownify | replaceRE "^<p>|</p>$" "" | safeHTML }}
+        </div>
+
+        {{ if lt (add $i 1) (len $pages) }}
+        <br />
+        {{ end }}
+    </li>
+    {{ end }}
+
+</ul>
+{{ end }}

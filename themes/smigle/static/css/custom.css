@@ -36,3 +36,18 @@ h1.pinned-title .logo {
     height: auto;
     margin-right: 0.5rem;
 }
+
+#portfolioByDate li {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 0.75rem;
+    align-items: start;
+}
+
+#portfolioByDate .date {
+    white-space: nowrap;
+}
+
+#portfolioByDate .intro {
+    margin: 0;
+}
