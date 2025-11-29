@@ -13,4 +13,4 @@ tags:
 
 Won the second place in Hackathon with my team. We built a networking component for interconnecting Pods and Services across Kubernetes clusters.
 
-{{< figure src="/images/moments/hackathon_2021.jpg" alt="session" class="center" >}}
+{{< figure src="/images/awards/hackathon_2021.jpg" alt="session" class="center" >}}

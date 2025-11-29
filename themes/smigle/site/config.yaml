@@ -29,14 +29,18 @@ menu:
       name: Talks
       url: /talks/
       weight: 6
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: awards
+      name: Awards
+      url: /awards/
       weight: 7
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 8
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 7
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags/
+    #   weight: 8
 params:
   abbrDateFmt: "Jan 2"
   author: "kerthcet"
@@ -64,5 +68,5 @@ params:
   subtitle: "R&D Engineer • OpenSource Enthusiast • Cat Owner • Sports Fan ⚽️ 🏀 🥊"
 pagination:
   pagerSize: 10
-mainSections: ["posts", "moments", "talks"]
+mainSections: ["posts", "moments", "talks", "awards"]
 summaryLength: 15
