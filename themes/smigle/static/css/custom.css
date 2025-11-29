@@ -25,16 +25,21 @@ h1 {
 }
 
 h1.pinned-title {
-    font-size: 25px;
+    font-size: 22px;
     display: flex;
     align-items: center;
     margin: 1.3rem 0 0 0;
 }
 
 h1.pinned-title .logo {
-    width: 15px;
+    width: 12px;
     height: auto;
     margin-right: 0.5rem;
+}
+
+h1.summary-title {
+    font-size: 22px;
+    margin: 1.3rem 0 0 0;
 }
 
 #portfolioByDate li {

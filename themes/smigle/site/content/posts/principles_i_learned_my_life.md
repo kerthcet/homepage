@@ -12,7 +12,7 @@ tags:
 pinned: true
 ---
 
-10 principles I've learned in my life -- continuously updating. No particular order.
+10 principles I’ve learned in my life — continuously updated. No particular order, and not meant to teach — just sharing my experience.
 
 1. Less is more (minimalism). Knowing what not to do is just as important as the opposite.
 
