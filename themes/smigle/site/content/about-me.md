@@ -9,7 +9,7 @@ layout: default
 
 R&D engineer living in Cambridge UK, currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com) and [ModelSpec.ai](https://modelspec.ai/).  I enjoy building scalable infrastructure and ML systems.
 
-My background spans distributed systems, cloud infrastructure and ML systems. My current work focuses on developing AI agents and model inference systems. Also in charge of building SaaS platform for our products. We're growing, welcome to join us to build algorithmic superintelligence!
+My background spans distributed systems, cloud infrastructure and ML systems. Now focusing on developing AI agents and model inference systems. Also in charge of building SaaS platform for our products. We're growing, welcome to join us to build algorithmic superintelligence!
 
 Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and serve as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads. See [portfolio](https://kerthcet.com/portfolio/) for more details on my projects and contributions.
 
