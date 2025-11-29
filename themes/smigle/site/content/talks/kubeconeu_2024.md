@@ -13,6 +13,8 @@ tags:
   - scheduling
   - opensource
   - talk
+  - france
+  - paris
 ---
 
 ### Session: SIG-Scheduling Intro & Deep Dive

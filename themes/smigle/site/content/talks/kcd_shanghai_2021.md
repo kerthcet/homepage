@@ -12,6 +12,7 @@ tags:
   - kcd
   - opensource
   - talk
+  - shanghai
 ---
 
 Glad to join the panel to discuss about the Pros and Cons of OpenSource and how to contribute to OpenSource projects.

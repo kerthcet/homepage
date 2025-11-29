@@ -13,6 +13,7 @@ tags:
   - opensource
   - keynote
   - talk
+  - hongkong
 ---
 
 ### Keynote: Building a Large Model Inference Platform for Heterogeneous Chinese Chips Based on VLLM

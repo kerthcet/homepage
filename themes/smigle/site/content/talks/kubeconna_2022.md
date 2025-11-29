@@ -13,6 +13,8 @@ tags:
   - opensource
   - scheduling
   - talk
+  - usa
+  - detroit
 ---
 
 ### Session: SIG-Scheduling Deep Dive

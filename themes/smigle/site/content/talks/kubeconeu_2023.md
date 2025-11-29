@@ -14,6 +14,8 @@ tags:
   - ai
   - opensource
   - talk
+  - netherlands
+  - amsterdam
 ---
 
 ### Session: Building a Batch System for the Cloud with Kueue

@@ -7,11 +7,11 @@ layout: default
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red)](https://github.com/sponsors/kerthcet)
 
-R&D engineer living in Cambridge UK. Currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com) and [ModelSpec.ai](https://modelspec.ai/).  I enjoy building scalable infrastructure and ML systems.
+R&D engineer living in Cambridge UK, currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com) and [ModelSpec.ai](https://modelspec.ai/).  I enjoy building scalable infrastructure and ML systems.
 
-My background spans distributed systems, cloud infrastructure and ML systems. These days I mainly focus on developing AI agents and model inference systems, including projects like [llmaz](https://github.com/InftyAI/llmaz) (serving platform) and [AlphaTrion](https://github.com/InftyAI/alphatrion) (AI observability). If you're interested, we'd love to have you join us!
+My background spans distributed systems, cloud infrastructure and ML systems. My current work focuses on developing AI agents and model inference systems. Also in charge of building SaaS platform for our products. We're growing, welcome to join us to build algorithmic superintelligence!
 
-Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and help incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LeaderWorkerSet](https://github.com/kubernetes-sigs/lws). Meanwhile, serving as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads.
+Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and serve as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads. See [portfolio](https://kerthcet.com/portfolio/) for more details on my projects and contributions.
 
 Feel free to reach out if you have any questions or want to discuss something related to AI, cloud, open source or starting a new business.
 

@@ -13,6 +13,6 @@ tags:
   - phuket
 ---
 
-Feed *Nania* with bananas.
+Her name is Nania.
 
 {{< figure src="/images/moments/nania.jpg" alt="hello" class="center-width-70-percent" >}}

@@ -13,6 +13,7 @@ tags:
   - scheduling
   - opensource
   - talk
+  - hongkong
 ---
 
 ### Panel: Fragmentation of the Scheduling in Kubernetes and Challenges for AI/ML workloads

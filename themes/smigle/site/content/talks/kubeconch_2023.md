@@ -16,6 +16,7 @@ tags:
   - ray
   - opensource
   - talk
+  - shanghai
 ---
 
 ### Session: Sailing Ray workloads with KubeRay and Kueue in Kubernetes

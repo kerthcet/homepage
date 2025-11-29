@@ -13,6 +13,8 @@ tags:
   - opensource
   - inference
   - talk
+  - england
+  - london
 ---
 
 ### Session: Sailing Multi-Host Inference with LWS
