@@ -59,8 +59,8 @@ params:
       url: https://github.com/kerthcet
     - name: X
       url: https://x.com/kerthcet
-    - name: Bluesky
-      url: https://kerthcet.bsky.social/
+    # - name: Bluesky
+    #   url: https://kerthcet.bsky.social/
     - name: LinkedIn
       url: https://www.linkedin.com/in/kerthcet/
     - name: WeChat
