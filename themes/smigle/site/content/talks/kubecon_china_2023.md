@@ -37,7 +37,7 @@ Presented together with [@Basasuya](https://github.com/Basasuya) from ByteDance.
 
 ### Session: SIG-Scheduling Intro & Deep Dive
 
-[[Slides](/slides/2023/kubecon-china/sig-scheduling_intro_deep_dive.pdf)]
+[[Slides](/slides/2023/kubecon-china/sig-scheduling_intro_deepdive.pdf)]
 
 Kube-scheduler is a critical component to Kubernetes, responsible for placing the pod to the most suitable node. But how it works, can we customize it for advanced usage, what’s the best practice in large clusters. To answer these progressive questions, we’ll divide this session into two parts. If you’re a newbie to kube-scheduler, you may interest with the Intro part, if you’re a senior one, you can join our Deep Dive.
 
