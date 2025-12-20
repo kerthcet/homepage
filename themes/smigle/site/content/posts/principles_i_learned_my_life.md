@@ -16,7 +16,7 @@ pinned: true
 
 1. Less is more. Knowing what not to do is just as important as the opposite.
 
-2. Don't follow the trend. Identify the most important problem in your field and work on it.
+2. Don't follow the trend. Identify the most important problem in your field and focus on it.
 
 3. You're the average of the people around you. Surround yourself with people who can make you better.
 
@@ -28,8 +28,8 @@ pinned: true
 
 7. Chase growth, not comfort. This makes you different from the ordinary.
 
-8. Take good care of your family. They're the backbone of your life.
+8. Persistence is also a gift. All your efforts will pay off one day.
 
-9. Life is a marathon. Stay at the table, and your moment will come.
+9. Take good care of your family. They're the backbone of your life.
 
 10. Unify knowledge and action. Or the other nine principles are meaningless.
