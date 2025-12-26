@@ -93,6 +93,7 @@ div.post-meta {
 
 #postsByDate .title {
   flex: 1;
+  white-space: nowrap;
 }
 
 #terms {
