@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: KubeCon China Shanghai
+title: Sailing Ray workloads with KubeRay and Kueue in Kubernetes
 subtitle: ""
 date: 2023-09-27
 description: ""
@@ -19,8 +19,6 @@ tags:
   - shanghai
 ---
 
-### Session: Sailing Ray workloads with KubeRay and Kueue in Kubernetes
-
 [[Slides](/slides/2023/kubecon-china/sailing_ray_workloads_with_kuberay_and_kueue_in_kubernetes.pdf)]
 
 Compute demands for machine learning are growing rapidly nowadays. Ray, a unified computing framework, allows ML engineers to scale their workloads effortlessly without building complex computing infrastructures.
@@ -34,15 +32,3 @@ Meanwhile, efficiently managing concurrent Ray jobs poses challenges such as job
 Presented together with [@Basasuya](https://github.com/Basasuya) from ByteDance.
 
 {{< figure src="/images/talks/kubeconch_ray_2023.jpg" alt="session" class="center" >}}
-
-### Session: SIG-Scheduling Intro & Deep Dive
-
-[[Slides](/slides/2023/kubecon-china/sig-scheduling_intro_deepdive.pdf)]
-
-Kube-scheduler is a critical component to Kubernetes, responsible for placing the pod to the most suitable node. But how it works, can we customize it for advanced usage, what’s the best practice in large clusters. To answer these progressive questions, we’ll divide this session into two parts. If you’re a newbie to kube-scheduler, you may interest with the Intro part, if you’re a senior one, you can join our Deep Dive.
-
-What’s more, we’ll share with you some ongoing works within the SIG, including the latest progress with the sub-projects.
-
-Presented together with [@denkensk](https://github.com/denkensk) from Shopee.
-
-{{< figure src="/images/talks/kubeconch_scheduler_2023.jpg" alt="session" class="center" >}}

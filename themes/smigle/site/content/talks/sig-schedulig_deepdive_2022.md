@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: KubeCon NA Detroit
+title: SIG-Scheduling Deep Dive
 subtitle: ""
 date: 2022-10-24
 description: ""
@@ -16,8 +16,6 @@ tags:
   - usa
   - detroit
 ---
-
-### Session: SIG-Scheduling Deep Dive
 
 [[Slides](/slides/2022/kubecon-na/sig-scheduling_deepdive.pdf)]
 

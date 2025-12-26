@@ -81,17 +81,18 @@ div.post-meta {
   }
 }
 
-#postsByDate {
-  list-style: none;
+#postsByDate li {
+  display: flex;
+  align-items: flex-start;
 }
 
 #postsByDate .date {
   width: 60px;
+  flex-shrink: 0;
 }
 
-#postsByDate div,
-#postsInOneGroup div {
-  display: inline-block;
+#postsByDate .title {
+  flex: 1;
 }
 
 #terms {

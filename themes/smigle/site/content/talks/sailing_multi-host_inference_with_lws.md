@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: KubeCon Europe London
+title: Sailing Multi-Host Inference with LWS
 subtitle: ""
 date: 2025-04-02
 description: ""
@@ -16,8 +16,6 @@ tags:
   - england
   - london
 ---
-
-### Session: Sailing Multi-Host Inference with LWS
 
 [[Slides](/slides/2025/kubecon-eu/sailing_multi-host_inference_with_lws.pptx.pdf)]
 
