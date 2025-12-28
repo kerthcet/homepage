@@ -20,15 +20,15 @@ pinned: true
 
 3. You're the average of the people around you. Surround yourself with people who can make you better.
 
-4. Failing to plan is planning to fail. No milestone, no progress.
+4. Failing to plan is planning to fail. Clear goals sharpen focus, and focus drives results.
 
-5. Think big, start small. Everything great started from a small beginning.
+5. Think big, start small. Thinking doesn't ship, execution does.
 
 6. Price your time. Pay for it or delegate the task if not worth the cost.
 
 7. Chase growth, not comfort. This makes you different from the ordinary.
 
-8. Persistence is also a gift. All your efforts will pay off one day.
+8. Persistence is also a gift. Small consistent efforts grow exponentially over time.
 
 9. Take good care of your family. They're the backbone of your life.
 
