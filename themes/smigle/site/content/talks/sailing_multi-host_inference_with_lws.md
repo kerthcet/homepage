@@ -17,7 +17,7 @@ tags:
   - london
 ---
 
-[[Slides](/slides/2025/kubecon-eu/sailing_multi-host_inference_with_lws.pptx.pdf)]
+[[Slides](/slides/2025/kubecon-eu/sailing_multi-host_inference_with_lws.pptx.pdf)] [[Project](https://github.com/kubernetes-sigs/lws)]
 
 Inference workloads are becoming increasingly prevalent and vital in Cloud Native world. However, it's not easy, one of the biggest challenges is large foundation model can not fit into a single node, which brings out the distributed inference with model parallelism, again, make serving inference workloads more complicated.
 

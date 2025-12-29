@@ -16,7 +16,7 @@ tags:
   - hongkong
 ---
 
-[[Slides](/slides/2025/kubecon-china/new_pattern_for_sailing_multi-host_llm_inference.pdf)]
+[[Slides](/slides/2025/kubecon-china/new_pattern_for_sailing_multi-host_llm_inference.pdf)] [[Project](https://github.com/kubernetes-sigs/lws)]
 
 Inference workloads are becoming increasingly prevalent and vital in Cloud Native world. However, it's not easy, one of the biggest challenges is large foundation model can not fit into a single node, like llama 3.1-405B or DeepSeek R1, which brings out the distributed inference with model parallelism, again, make serving inference workloads more complicated.
 

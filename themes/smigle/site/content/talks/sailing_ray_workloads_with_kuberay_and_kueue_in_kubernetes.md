@@ -19,7 +19,7 @@ tags:
   - shanghai
 ---
 
-[[Slides](/slides/2023/kubecon-china/sailing_ray_workloads_with_kuberay_and_kueue_in_kubernetes.pdf)]
+[[Slides](/slides/2023/kubecon-china/sailing_ray_workloads_with_kuberay_and_kueue_in_kubernetes.pdf)] [[Project](https://github.com/kubernetes-sigs/kueue)]
 
 Compute demands for machine learning are growing rapidly nowadays. Ray, a unified computing framework, allows ML engineers to scale their workloads effortlessly without building complex computing infrastructures.
 

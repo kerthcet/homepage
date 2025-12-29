@@ -19,7 +19,7 @@ tags:
   - shanghai
 ---
 
-[[Slides](/slides/2023/kubecon-china/sig-scheduling_intro_deepdive.pdf)]
+[[Slides](/slides/2023/kubecon-china/sig-scheduling_intro_deepdive.pdf)] [[Project](https://github.com/kubernetes/kubernetes)]
 
 Kube-scheduler is a critical component to Kubernetes, responsible for placing the pod to the most suitable node. But how it works, can we customize it for advanced usage, what’s the best practice in large clusters. To answer these progressive questions, we’ll divide this session into two parts. If you’re a newbie to kube-scheduler, you may interest with the Intro part, if you’re a senior one, you can join our Deep Dive.
 
