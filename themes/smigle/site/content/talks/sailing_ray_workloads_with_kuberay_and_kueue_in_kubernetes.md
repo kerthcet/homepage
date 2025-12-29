@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: Sailing Ray workloads with KubeRay and Kueue in Kubernetes
+title: KubeCon Shanghai - Sailing Ray workloads with KubeRay and Kueue in Kubernetes
 subtitle: ""
 date: 2023-09-27
 description: ""

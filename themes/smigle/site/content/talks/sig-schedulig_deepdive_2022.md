@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: SIG-Scheduling Deep Dive
+title: KubeCon Detroit - SIG-Scheduling Deep Dive
 subtitle: ""
 date: 2022-10-24
 description: ""

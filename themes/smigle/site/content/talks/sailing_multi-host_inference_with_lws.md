@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: Sailing Multi-Host Inference with LWS
+title: KubeCon London - Sailing Multi-Host Inference with LWS
 subtitle: ""
 date: 2025-04-02
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: SIG-Scheduling Intro & Deep Dive
+title: KubeCon Paris - SIG-Scheduling Intro & Deep Dive
 subtitle: ""
 date: 2024-03-22
 description: ""

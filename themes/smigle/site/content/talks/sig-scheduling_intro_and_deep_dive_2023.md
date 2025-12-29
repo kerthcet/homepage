@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: SIG-Scheduling Intro & Deep Dive
+title: KubeCon Shanghai - SIG-Scheduling Intro & Deep Dive
 subtitle: ""
 date: 2023-09-27
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: New Pattern for Sailing Multi-Host LLM Inference
+title: KubeCon HongKong - New Pattern for Sailing Multi-Host LLM Inference
 subtitle: ""
 date: 2025-06-10
 description: ""

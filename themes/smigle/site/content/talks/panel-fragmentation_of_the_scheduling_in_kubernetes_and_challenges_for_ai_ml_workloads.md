@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: Panel - Fragmentation of the Scheduling in Kubernetes and Challenges for AI/ML Workloads
+title: "KubeCon HongKong - Panel: Fragmentation of the Scheduling in Kubernetes and Challenges for AI/ML Workloads"
 subtitle: ""
 date: 2024-08-23
 description: ""

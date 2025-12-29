@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: Build a Large Model Inference Platform for Heterogeneous Chips Based on vLLM (Keynote)
+title: KubeCon HongKong - Build a Large Model Inference Platform for Heterogeneous Chips Based on vLLM (Keynote)
 subtitle: ""
 date: 2025-06-11
 description: ""

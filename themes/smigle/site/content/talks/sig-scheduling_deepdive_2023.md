@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: SIG-Scheduling Deep Dive
+title: KubeCon Amsterdam - SIG-Scheduling Deep Dive
 subtitle: ""
 date: 2023-04-19
 description: ""

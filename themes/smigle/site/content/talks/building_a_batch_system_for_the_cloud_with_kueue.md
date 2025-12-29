@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: Building a Batch System for the Cloud with Kueue
+title: KubeCon Amsterdam - Building a Batch System for the Cloud with Kueue
 subtitle: ""
 date: 2023-04-18
 description: ""

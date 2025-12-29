@@ -1,6 +1,6 @@
 ---
 author: kerthcet
-title: Panel - How OpenSource Contribution Impacts Personal Career Development
+title: "KCD Shanghai - Panel: How OpenSource Contribution Impacts Personal Career Development"
 subtitle: ""
 date: 2021-11-06
 description: ""
