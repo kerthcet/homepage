@@ -54,6 +54,8 @@ Also I founded the [modelspec.ai](https://modelspec.ai), which aims to be a mode
 
 In the future, modelspec.ai will build on top of the AMRS library to provide adaptive model routing capability.
 
+Anyway, I have a lot of ideas in my mind, like native AI-terminal (actually I have played with this at the beginning of 2025, earlier than X-CLIs), AIOS and so on, just don't have enough time. In 2026, I will continue working on InftyAI to bring more promising projects and grow the community.
+
 
 #### Travel
 
@@ -86,8 +88,18 @@ Another interesting area is about building AI infrastructure with AI, we saw com
 
 ### Goals for 2026
 
-Too many things to do for the next year, but set three goals here as usual and check back at the end of 2026:
+Too many things to do for the next year, set three goals about work here as usual and check back at the end of 2026:
 
 - Take deep dive into AI inference systems, working on performance optimizations.
 - Explore autonomous GPU kernel generation.
-- Grow the InftyAI community with more convincing projects and active contributors.
+- Start to learn and optimize the Ray project for agentic RL.
+
+Also set three personal goals:
+
+- Follow the daily schedule strictly.
+- Do more exercises.
+- Write more technical posts and publish at least two papers.
+
+### Word of My 2025
+
+**Uncertainty**. New job, new city, and new AI technologies every month or even every week. What you can do is to embrace the uncertainty and seek the certainty within.
