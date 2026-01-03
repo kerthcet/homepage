@@ -5,11 +5,13 @@ subtitle: ""
 date: 2024-12-31
 description: ""
 categories:
-  - Work
+  - Life
 tags:
   - 2024
   - recap
 ---
+
+### Review the Goals of 2024
 
 On January 1st, 2024, I outlined three goals for the coming year,
 and I would like to response to this first:
@@ -48,6 +50,14 @@ For Goal 3, I should have done better, the short video platform knows me better 
 - <<Deep Work>> written by Cal Newport which offers practical advice on how to eliminate distractions and improve concentration.
 - <<The Most Important Thing Illuminated>> written by Howard Marks and Paul Johnson, it's a collection of Howard's memos to his clients which distill his investment philosophy.
 - <<Embedded Power>> written by Xiaohuan Lan about the relationship between the Chinese government and economic development.
+
+### Stats
+
+#### Coding
+
+{{< figure src="/images/posts/code_stats_2024.png" alt="stats" class="center" >}}
+
+### Goals for 2025
 
 Looking forward to the new year, I think I will keep learning and working on LLM inference, besides the cloud, I will take more time with the inference engines, vllm, sglang particularly. Also, the fragmentation of AI software stack is becoming more and more serious, different chips, various accelerators, which is beginning to hinder the development of hardwares, so I think the AI compilers will play an important role here. I highly recommend you to watch the video [The Golden Age of Compilers](https://www.youtube.com/watch?v=4HgShra-KnY&list=PLpdLHovdUOmbj3IMl20Xzr_QFh7Wcic1p&index=13) from Chris Lattner, the creator of LLVM. And I do have great interest with the [Mojo](https://github.com/modularml/mojo) AI language, which is also created by Chris, help to address the complexities of building AI applications, which is usually consist of a python binding, a c++ runtime, and cuda code to drive the hardwares. But the license is another concern I'm worried about.
 
