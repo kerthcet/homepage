@@ -88,7 +88,10 @@ Another interesting area is about building AI infrastructure with AI, we saw com
 
 ### Goals for 2026
 
-Too many things to do for the next year, set three goals about work here as usual and check back at the end of 2026:
+The word of my 2025 is **Uncertainty**. New job, new city, and new AI technologies every month or even every week. What you can do is to embrace the uncertainty and seek the certainty within.
+
+
+For the new year, too many things to do, set three goals about work here as usual and check back at the end of 2026:
 
 - Take deep dive into AI inference systems, working on performance optimizations.
 - Explore autonomous GPU kernel generation.
@@ -99,7 +102,3 @@ Also set three personal goals:
 - Follow the daily schedule strictly.
 - Do more exercises.
 - Write more technical posts and publish at least two papers.
-
-### Word of My 2025
-
-**Uncertainty**. New job, new city, and new AI technologies every month or even every week. What you can do is to embrace the uncertainty and seek the certainty within.
