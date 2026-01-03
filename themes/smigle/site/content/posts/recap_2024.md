@@ -55,7 +55,7 @@ For Goal 3, I should have done better, the short video platform knows me better 
 
 #### Coding
 
-{{< figure src="/images/posts/code_stats_2024.png" alt="stats" class="center" >}}
+{{< figure src="/images/posts/code_stats_2024.png" alt="stats" class="center-width-70-percent" >}}
 
 ### Goals for 2025
 
