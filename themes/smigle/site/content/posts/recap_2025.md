@@ -80,7 +80,7 @@ Another interesting area is about building AI infrastructure with AI, we saw com
 
 #### Coding
 
-{{< figure src="/images/posts/code_stats_2025.png" alt="stats" class="center" >}}
+{{< figure src="/images/posts/code_stats_2025.png" alt="stats" class="center-width-70-percent" >}}
 
 #### Sports
 
