@@ -24,9 +24,9 @@ pinned: true
 
 5. Think big, start small. Thinking doesn't ship, execution does.
 
-6. Price your time. Pay for it or delegate the task if not worth the cost.
+6. Protect your attention and price your time. This makes your life easier and less anxious.
 
-7. Chase growth, not comfort. This makes you different from the ordinary.
+7. Seek growth, not ease. This makes you stand out.
 
 8. Persistence is also a gift. Small consistent efforts grow exponentially over time.
 
