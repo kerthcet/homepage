@@ -9,6 +9,8 @@ categories:
 tags:
   - 2026
   - dynamo
+  - ai
+  - inference
 ---
 
 [Dynamo](https://github.com/ai-dynamo/dynamo) is a high-throughput, low-latency inference framework in a distributed setup. Recently, I'm working on optimizing the Dynamo system, copiloted by our own product, the Hive, an evoluationary AI agent. Router is one of the key components in dynamo, especially like the KV-aware router, which seems like a good starting point to work on after talking with the Dynamo team.
