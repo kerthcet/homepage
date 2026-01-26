@@ -39,20 +39,9 @@ python -m dynamo.frontend \
     --http-port 8000
 ```
 
-<!-- We know dynamo is mostly written in rust, but it has python bindings since python is more popular for AI users. So, if you're developing with dynamo, you may need to compile the rust code into a python package first, then  pip install from it. The command looks like below:
-
-```bash
-uv venv dynamo
-source dynamo/bin/activate
-cd lib/bindings/python
-maturin develop --release --strip
-cd $DYNAMO_HOME
-uv pip install -e .
-``` -->
-
 After frontend started, a new module called `ModelWatcher` will be launched, it's a long-running process to monitor the model registrations, basically a list-and-watch mechanism. Once a new model is registered, the modelWatcher will try to build the processing pipeline, basically how to process the requests. Different models may have different pipelines, for example, if model input is token and model type is chat, we need to have a tokenizer as the preprocessing step before feeding into the model. But if model input is text, tokenizer is no longer needed in dynamo, it can be handled by the underlying inference engines.
 
-The pipeline looks like below, we will not deep dive into each module here, but we know the request will eventually reach the ServiceBackend, which is responsible for forwarding the request to the actual workers.
+The pipeline looks like below, will not deep dive into each part here, but the request will eventually reach the ServiceBackend, which is responsible for forwarding the request to the actual workers. This is a pipeline with kv-aware routing, the PrefillRouter is optional and lazy-activated only when a prefill worker is registered.
 
 ```
 Frontend → Preprocessor → Migration → Backend → PrefillRouter → ServiceBackend[KvPushRouter[KvRouter]]
@@ -94,4 +83,15 @@ Some interesting ideas the Hive came up with after several rounds of experiments
 - Penalize the overloaded workers to avoid bottleneck
 - Adaptive weight for cost function based on the request patterns and historical data
 
-Hopefully I can share more details about it in the future.
+For performance consideration, dynamo is written in rust for the core components, so every time you change the code, you need to recompile the rust code into a python package. The following commands will help to set up the development environment:
+
+```bash
+uv venv dynamo
+source dynamo/bin/activate
+cd lib/bindings/python
+maturin develop --release --strip
+cd $DYNAMO_HOME
+uv pip install -e .
+```
+
+Hopefully I can share the optimization results in the near future.
