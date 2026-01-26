@@ -26,11 +26,20 @@ The Dynamo KV Router routes requests by evaluating their computational costs acr
 
 ### How KV Router Starts
 
-There're several ways to launch the dynamo, either from the frontend or launch a single binary that contains both frontend and backend. Here we assume that dynamo is launched from the frontend. There're also several kinds of api servers dynamo support, it could be a http server, a grpc server or others. Here we use the http server as an example.
+For kv-aware routing, there're several core components here as illustrated in the figure below. The frontend for receiving requests, the KVRouter for tracking the kv-cache status and the Scheduler for making routing decisions. And the PushRouter to forward requests.
 
 {{< figure src="/images/posts/kv-aware-workflow.png" alt="stats" class="center-width-70-percent" >}}
 
-The frontend is written in python. We know dynamo is mostly written in rust, but it has python bindings since python is more popular for AI users. So, if you're developing with dynamo, you may need to compile the rust code into a python package first, then  pip install from it. The command looks like below:
+It's easy to start the frontend with kv-aware routing mode by the following command:
+
+```python
+python -m dynamo.frontend \
+    --router-mode kv \
+    --router-reset-states \
+    --http-port 8000
+```
+
+<!-- We know dynamo is mostly written in rust, but it has python bindings since python is more popular for AI users. So, if you're developing with dynamo, you may need to compile the rust code into a python package first, then  pip install from it. The command looks like below:
 
 ```bash
 uv venv dynamo
@@ -39,15 +48,29 @@ cd lib/bindings/python
 maturin develop --release --strip
 cd $DYNAMO_HOME
 uv pip install -e .
+``` -->
+
+After frontend started, a new module called `ModelWatcher` will be launched, it's a long-running process to monitor the model registrations, basically a list-and-watch mechanism. Once a new model is registered, the modelWatcher will try to build the processing pipeline, basically how to process the requests. Different models may have different pipelines, for example, if model input is token and model type is chat, we need to have a tokenizer as the preprocessing step before feeding into the model. But if model input is text, tokenizer is no longer needed in dynamo, it can be handled by the underlying inference engines.
+
+The pipeline looks like below, we will not deep dive into each module here, but we know the request will eventually reach the ServiceBackend, which is responsible for forwarding the request to the actual workers.
+
+```
+Frontend → Preprocessor → Migration → Backend → PrefillRouter → ServiceBackend[KvPushRouter[KvRouter]]
 ```
 
-There're three different engines in dynamo, the `Echo` engine for testing purpose, the `Dynamic` engine for production usage, the `Mocker` engine for mocking the model behavior for benchmarking.
+In dynamo, there're several different routers, the  `PushRouter`, `KVPushRouter` and the `PrefillRouter`. Basically, this is a multi-tier routing system. The PushRouter is the basic one supports random, round-robin and direct routing. The KVPushRouter is on top of PushRouter which helps to route based on the kv-cache events. The PrefillRouter supports either basic PushRouter or KVPushRouter for prefill-decode disaggregated serving.
 
-Then we need to build the processing pipeline, basically how to handle the requests, dynamo has a module called `ModelWatcher` to dynamically build the pipeline based on the model registrations. Different models may have different pipelines, for example, if model input is token and model type is chat, we need to have a tokenizer as the processing step before feeding into the model. But if model input is text, tokenizer is no longer needed in dynamo, it can be handled by the underlying inference engines. Dynamic is important for a distributed setup environment, that's why we need the list-and-watch mechanism.
+To discover the available workers, kvrouter will start a new watcher to monitor the worker status, which will be helpful for making routing decisions later.
 
-The modelWatcher will build the routers based on the route type. In dynamo, there're several different routers, the  `PushRouter`, `KVPushRouter` and the `PrefillRouter`. Basically, this is a multi-tier routing system. The PushRouter is the basic one supports random, round-robin and direct routing. The KVPushRouter is on top of PushRouter which helps to route based on the kv-cache events. The PrefillRouter supports either basic PushRouter or KVPushRouter for prefill-decode disaggregated serving.
+Then we need to start the engine, there're three different engines in dynamo, the `Echo` engine for testing purpose, the `Dynamic` engine for production usage, the `Mocker` engine for mocking the model behavior for benchmarking. For example, I'm running benchmark tests with kv-aware router, then I can launch the mocker engine with the following command:
 
-To discover the available workers, kvrouter will start a new watcher to monitor the worker status. Now the frontend http server is started to watch requests.
+```python
+./run_engines.sh --mockers \
+    --num-workers 8 \
+    --model-path deepseek-ai/DeepSeek-R1-Distill-Llama-8B \
+    --block-size 64 \
+    --speedup-ratio 2.0
+```
 
 ### How KV Router Works
 
