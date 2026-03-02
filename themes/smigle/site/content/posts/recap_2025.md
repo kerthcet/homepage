@@ -93,8 +93,8 @@ The word of my 2025 is **Uncertainty**. New job, new city, and new AI technologi
 
 For the new year, too many things to do, set three goals about work here as usual and check back at the end of 2026:
 
-- Take deep dive into AI inference systems, working on performance optimizations.
-- Open source [Puma](https://github.com/InftyAI/PUMA), a new inference engine for local AI.
+- Take deep dive into AI inference systems, working on performance optimizations. Hopefully opensource the [Puma](https://github.com/InftyAI/PUMA) project, it's still in stealth mode.
+- Work on evolutionary AI agents, explore the combination with RL.
 - Explore autonomous GPU kernel generation.
 
 Also set three personal goals:
