@@ -9,7 +9,6 @@ categories:
 tags:
   - 2025
   - thoughts
-pinned: true
 ---
 
 10 principles I’ve learned in my life — continuously updated. No particular order, and not meant to teach — just sharing my experience.
