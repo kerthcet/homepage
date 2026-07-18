@@ -9,7 +9,7 @@ layout: default
 
 R&D engineer living in Cambridge UK, currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com). I enjoy building frameworks and scalable infrastructure.
 
-My background spans distributed systems, cloud infrastructure and ML systems. Now focusing on developing recursive self-improvement AI agent and local AI system. I believe cloud AI will push the frontier of science while local AI will build Jarvis for everyone.
+My background spans distributed systems, cloud infrastructure and ML systems. Now focusing on developing recursive self-improvement AI agent and local AI system. I believe cloud AI will push the frontier of science while local AI will bring a personalized, private and secure Jarvis to everyone.
 
 Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and serve as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads. See [portfolio](https://kerthcet.com/portfolio/) for more details on my projects and contributions.
 
