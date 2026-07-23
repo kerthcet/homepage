@@ -7,7 +7,7 @@ layout: default
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red)](https://github.com/sponsors/kerthcet)
 
-R&D engineer living in Cambridge UK, currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com). I enjoy building frameworks and scalable infrastructure.
+R&D engineer living in Cambridge UK, currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com)and [Vagrant.ai](https://vagrant.ai). I enjoy building frameworks and scalable infrastructure.
 
 My background spans distributed systems, cloud infrastructure and ML systems. Now focusing on developing recursive self-improvement AI agent and local AI system. I believe cloud AI will push the frontier of science while local AI will bring a personalized, private and secure Jarvis to everyone.
 
