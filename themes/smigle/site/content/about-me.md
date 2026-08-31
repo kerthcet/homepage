@@ -9,7 +9,7 @@ layout: default
 
 R&D engineer living in Cambridge UK, currently working at [Hiverge.ai](https://www.hiverge.ai/) as the founding engineer. Also the founder of [InftyAI](https://inftyai.com) and [Vagrant.ai](https://vagrant.ai). Hope to coach a football team one day.
 
-My background spans distributed systems, cloud infrastructure and ML systems. I enjoy building frameworks and scalable infrastructure. Now focusing on developing recursive self-improvement agents and local AI systems. I believe cloud AI will push the frontier of science while local AI will empower individuals with privacy and security.
+My background spans distributed systems, cloud infrastructure and ML systems. I enjoy building frameworks and scalable infrastructure. Now focusing on developing recursive self-improvement agents and local AI systems. I believe cloud AI will push the frontier of science while local AI will democratize the intelligence, empowering everyone to build their own AI.
 
 Additionally, I work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) community as SIG-Scheduling Maintainer and serve as the Tech Lead of the [CNCF](https://www.cncf.io/) Tag Workloads. See [portfolio](https://kerthcet.com/portfolio/) for more details on my projects and contributions.
 
