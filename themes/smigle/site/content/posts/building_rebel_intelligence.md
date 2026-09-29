@@ -18,8 +18,8 @@ I'm not quite interested with the business model behind Muse, like how they're g
 
 And personally, I think Meta is doing the right thing because today they're behind the frontier AI labs, but they have a big advantage over others as they have built a business empire with billions of users, if they serve their users well, they will not only capture a significant share of the AI market but also in a good position to build better models over time. I also fully believe personal AI or private AI is what everyone needs, that's why I want to build **Rebel Intelligence**. The idea is inspired by the rebel alliance in Star Wars, which fights against the oppressive Galactic Empire. It generally means two things:
 
-1. Empowering individuals with control over their AI and data rather than being dominated by centralized tech giants.
-2. Creating diverse, adaptive, and independent intelligence rather than homogenized ones.
+* Protecting personal data and privacy from centralized tech giants and their control.
+* Cultivating intelligence that is deeply personal and distinct, rather than converging into the same.
 
 However, from the technical perspective, what I'm building today is still a bit different from Muse. It's more like a platform offering the infrastructure for users to build, deploy, and manage their own AI agents and systems rather than the agent itself.
 
