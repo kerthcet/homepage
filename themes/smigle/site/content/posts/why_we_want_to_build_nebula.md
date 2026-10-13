@@ -13,11 +13,11 @@ tags:
   - NeoCloud
 ---
 
-At [hiverge.ai](https://hiverge.ai), we're building `Hive`, a distributed platform that runs large numbers of self-improving evolutionary agents. It mainly focuses on three domains:
+At [hiverge.ai](https://hiverge.ai), we're building `Hive`, a distributed platform where large numbers of self-improving evolutionary agents for algorithm discovery and optimization. We mainly focus on three domains:
 
-* **Planning and logistics**, such as long-horizon planning and supply chain management.
-* **Performance engineering**, such as accelerating model training, GPU kernel optimization and Kubernetes scheduling algorithms.
-* **Scientific discovery**, such as quantum chemistry and quantum algorithms for combinatorial optimization.
+* **Planning and logistics**, like long-horizon planning, supply chain management and others.
+* **Performance engineering**, like model training acceleration, GPU kernel optimization, Kubernetes scheduling and others.
+* **Scientific discovery**, like discovering new algorithms for quantum chemistry, new quantum algorithms for combinatorial optimization.
 
 Hive has been trusted by leading labs and companies like Quantinuum, NVIDIA and AWS, with more undisclosed customers.
 
@@ -37,9 +37,11 @@ This became the main thing holding back growth with our customers.
 We looked at what the community had built first. [SkyPilot](https://github.com/skypilot-org/skypilot), from UC Berkeley's Sky Computing Lab, is popular and comes close to what we wanted. Two things got in the way:
 
 1. **No Modal support.** We wanted Modal first because it has everything we need: configurable egress policies and flexible CPU/memory allocation. SkyPilot didn't support Modal at the time.
-2. **CLI-first design.** SkyPilot is mainly a CLI tool, while Hive launches Kubernetes Pods. Making the two work together would have taken real time and effort.
+2. **CLI-first design.** SkyPilot is mainly a CLI tool, while our platform is tightly coupled with Kubernetes, making the integration non-trivial. For example, the cost tracking and logging would require significant additional work.
 
-## So we built Nebula
+BTW, we had some private communication with the SkyPilot team, and really appreciated their insights.
+
+## Our Solution
 
 So we built our own GPU provisioning project: **[Nebula](https://github.com/inftyai/nebula)**. It's based on two principles:
 
