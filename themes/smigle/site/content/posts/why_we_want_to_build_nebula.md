@@ -25,7 +25,7 @@ Hive has been trusted by leading labs and companies like Quantinuum, NVIDIA and 
 
 To make Hive scalable and robust, we chose Kubernetes as our orchestration engine and AWS as the cloud underneath our SaaS platform. That works well most of the time. It stops working well when customers want to optimize ML workloads, or more recently LLM workloads, because those need a lot of GPUs. Four problems kept coming up:
 
-* **Capacity.** AWS doesn't always have enough GPUs, especially A100s and H100s, so we have to reserve them in advance.
+* **Capacity.** AWS doesn't always have enough GPUs, especially like A100s and H100s, so we have to reserve them in advance. However, reservation doesn't work quite well for us because our demand for GPUs is highly dynamic and unpredictable. Also the GPU type requirements vary depending on the workload, making it even harder to plan ahead. A typical use case for our customers is running low-end GPUs like L4 for prototyping and then switching to high-end GPUs like A100 or H100 for experiments.
 * **Hardware variety.** AWS doesn't offer AMD GPUs, and some customers specifically want to optimize inference on AMD.
 * **Multi-node workloads.** Running something like Kimi K3 across multi-node isn't easy on AWS out of the box.
 * **Cost.** GPUs on AWS are expensive, and reserving them costs even more.
