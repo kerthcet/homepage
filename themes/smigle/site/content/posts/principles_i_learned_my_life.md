@@ -15,19 +15,19 @@ tags:
 
 1. Less is more. Knowing what not to do is just as important as the opposite.
 
-2. Don't follow the trend. Identify the most important problem in your field and focus on it.
+2. Think long-term. Build to last.
 
-3. You're the average of the people around you. Surround yourself with people who can make you better.
+3. Look within. Seek no validation.
 
-4. Failing to plan is planning to fail. Clear goals sharpen focus, and focus drives results.
+4. Don't follow the trend. Identify the most important problem in your field and focus on it.
 
-5. Think big, start small. Thinking doesn't ship, execution does.
+5. You're the average of the people around you. Surround yourself with people who can make you better.
 
-6. Protect your attention and price your time. This makes your life easier and less anxious.
+6. Failing to plan is planning to fail. Clear goals sharpen focus, and focus drives results.
 
-7. Seek growth, not ease. This makes you stand out.
+7. Think big, start small. Thinking doesn't ship, execution does.
 
-8. Persistence is also a gift. Small consistent efforts grow exponentially over time.
+8. Protect your attention. This makes your life easier and less anxious.
 
 9. Take good care of your family. They're the backbone of your life.
 
