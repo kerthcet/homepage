@@ -15,20 +15,20 @@ tags:
 
 1. Less is more. Knowing what not to do is just as important as the opposite.
 
-2. Think long-term. Build to last.
+2. Persistence is also a talent. Work hard in silence, let the success be your noise.
 
-3. Look within. Seek no validation.
+3. Invest your time in what truly matters. And trade money for time whenever you can.
 
-4. Don't follow the trend. Identify the most important problem in your field and focus on it.
+4. Look inward, seek no validation from others. But always be humble and be kind.
 
-5. You're the average of the people around you. Surround yourself with people who can make you better.
+5. Failing to plan is planning to fail. Clear goals sharpen focus, and focus drives results.
 
-6. Failing to plan is planning to fail. Clear goals sharpen focus, and focus drives results.
+6. Think big, start small. Thinking doesn't ship, execution does.
 
-7. Think big, start small. Thinking doesn't ship, execution does.
+7. You're the average of the people around you. Surround yourself with people who can make you better.
 
-8. Protect your attention. This makes your life easier and less anxious.
+8. Health is wealth. Nothing is more important than investing in your body.
 
 9. Take good care of your family. They're the backbone of your life.
 
-10. Unify knowledge and action. Or the other nine principles are meaningless.
+10. Unite knowledge with action. Or the other nine principles are meaningless.
